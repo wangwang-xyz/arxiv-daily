@@ -30,10 +30,14 @@ keywords:
         filters: ["Visual Localization","Camera Localization",
                   "Camera Re-localisation","Loop Closure Detection",
                   "visual place recognition","image retrieval"]
-    "Keypoint Detection":
-        filters: ["Keypoint Detection", "Feature Descriptor"]
-    "Image Matching":
-        filters: ["Image Matching", "Keypoint Matching", 
-                  "Line Segment Detection", "Local Feature Matching"]
-    "NeRF":
-        filters: ["NeRF"]
+    "3D GS":
+        filters: ["3D GS"]
+    "Scene Completion":
+        filters: ["scene reconstruction","3D reconstruction","SSC",
+                  "semantic scene completion","3D semantic completion",
+                  "voxel-wise semantic prediction","scene completion + segmentation"]
+    "Embodied Intelligence":
+        filters: ["Vision-Language-Action","VLA","Vision-Language Model","VLM",
+                  "Embodied AI","Vision-Language Navigation","VLN"]
+    "Robotics":
+        filters: ["Robot"]

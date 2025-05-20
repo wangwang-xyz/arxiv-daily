@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-19**|**eStonefish-scenes: A synthetically generated dataset for underwater event-based optical flow prediction tasks**|Jad Mansour et.al.|[2505.13309](http://arxiv.org/abs/2505.13309)|null|
+|**2025-05-18**|**Structureless VIO**|Junlin Song et.al.|[2505.12337](http://arxiv.org/abs/2505.12337)|null|
 |**2025-05-06**|**Thermal-LiDAR Fusion for Robust Tunnel Localization in GNSS-Denied and Low-Visibility Conditions**|Lukas Schichler et.al.|[2505.03565](http://arxiv.org/abs/2505.03565)|null|
 |**2025-05-13**|**SafeNav: Safe Path Navigation using Landmark Based Localization in a GPS-denied Environment**|Ganesh Sapkota et.al.|[2505.01956](http://arxiv.org/abs/2505.01956)|null|
 |**2025-04-30**|**eNCApsulate: NCA for Precision Diagnosis on Capsule Endoscopes**|Henry John Krumb et.al.|[2504.21562](http://arxiv.org/abs/2504.21562)|null|
@@ -676,6 +678,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-18**|**MMS-VPR: Multimodal Street-Level Visual Place Recognition Dataset and Benchmark**|Yiwei Ou et.al.|[2505.12254](http://arxiv.org/abs/2505.12254)|null|
+|**2025-05-16**|**Improved Bag-of-Words Image Retrieval with Geometric Constraints for Ground Texture Localization**|Aaron Wilhelm et.al.|[2505.11620](http://arxiv.org/abs/2505.11620)|null|
 |**2025-05-16**|**Redundancy-Aware Pretraining of Vision-Language Foundation Models in Remote Sensing**|Mathis Jürgen Adler et.al.|[2505.11121](http://arxiv.org/abs/2505.11121)|null|
 |**2025-05-04**|**OBD-Finder: Explainable Coarse-to-Fine Text-Centric Oracle Bone Duplicates Discovery**|Chongsheng Zhang et.al.|[2505.03836](http://arxiv.org/abs/2505.03836)|**[link](https://github.com/cszhanglmu/obd-finder)**|
 |**2025-05-06**|**Thermal-LiDAR Fusion for Robust Tunnel Localization in GNSS-Denied and Low-Visibility Conditions**|Lukas Schichler et.al.|[2505.03565](http://arxiv.org/abs/2505.03565)|null|
@@ -2855,6 +2859,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-19**|**Hybrid 3D-4D Gaussian Splatting for Fast Dynamic Scene Representation**|Seungjun Oh et.al.|[2505.13215](http://arxiv.org/abs/2505.13215)|null|
+|**2025-05-18**|**VGGT-SLAM: Dense RGB SLAM Optimized on the SL(4) Manifold**|Dominic Maggio et.al.|[2505.12549](http://arxiv.org/abs/2505.12549)|null|
+|**2025-05-18**|**Real-Time Spatial Reasoning by Mobile Robots for Reconstruction and Navigation in Dynamic LiDAR Scenes**|Pengdi Huang et.al.|[2505.12267](http://arxiv.org/abs/2505.12267)|**[link](https://github.com/SZU-VCC/RTRecon)**|
+|**2025-05-18**|**From Low Field to High Value: Robust Cortical Mapping from Low-Field MRI**|Karthik Gopinath et.al.|[2505.12228](http://arxiv.org/abs/2505.12228)|null|
+|**2025-05-18**|**Always Clear Depth: Robust Monocular Depth Estimation under Adverse Weather**|Kui Jiang et.al.|[2505.12199](http://arxiv.org/abs/2505.12199)|**[link](https://github.com/msscao/acdepth)**|
+|**2025-05-17**|**SpatialCrafter: Unleashing the Imagination of Video Diffusion Models for Scene Reconstruction from Limited Observations**|Songchun Zhang et.al.|[2505.11992](http://arxiv.org/abs/2505.11992)|null|
+|**2025-05-17**|**GTR: Gaussian Splatting Tracking and Reconstruction of Unknown Objects Based on Appearance and Geometric Complexity**|Takuya Ikeda et.al.|[2505.11905](http://arxiv.org/abs/2505.11905)|null|
 |**2025-05-16**|**Patient-Specific Dynamic Digital-Physical Twin for Coronary Intervention Training: An Integrated Mixed Reality Approach**|Shuo Wang et.al.|[2505.10902](http://arxiv.org/abs/2505.10902)|null|
 |**2025-05-15**|**Mapping Semantic Segmentation to Point Clouds Using Structure from Motion for Forest Analysis**|Francisco Raverta Capua et.al.|[2505.10751](http://arxiv.org/abs/2505.10751)|null|
 |**2025-05-14**|**ExploreGS: a vision-based low overhead framework for 3D scene reconstruction**|Yunji Feng et.al.|[2505.10578](http://arxiv.org/abs/2505.10578)|null|
@@ -2873,6 +2884,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-19**|**PLAICraft: Large-Scale Time-Aligned Vision-Speech-Action Dataset for Embodied AI**|Yingchen He et.al.|[2505.12707](http://arxiv.org/abs/2505.12707)|null|
+|**2025-05-18**|**Visuospatial Cognitive Assistant**|Qi Feng et.al.|[2505.12312](http://arxiv.org/abs/2505.12312)|null|
+|**2025-05-18**|**Emergent Active Perception and Dexterity of Simulated Humanoids from Visual Reinforcement Learning**|Zhengyi Luo et.al.|[2505.12278](http://arxiv.org/abs/2505.12278)|null|
+|**2025-05-17**|**Are Multimodal Large Language Models Ready for Omnidirectional Spatial Reasoning?**|Zihao Dongfang et.al.|[2505.11907](http://arxiv.org/abs/2505.11907)|null|
 |**2025-05-16**|**Multi-Modal Multi-Task (M3T) Federated Foundation Models for Embodied AI: Potentials and Challenges for Edge Integration**|Kasra Borazjani et.al.|[2505.11191](http://arxiv.org/abs/2505.11191)|null|
 |**2025-05-15**|**Embodied AI in Machine Learning -- is it Really Embodied?**|Matej Hoffmann et.al.|[2505.10705](http://arxiv.org/abs/2505.10705)|null|
 |**2025-05-15**|**KAITIAN: A Unified Communication Framework for Enabling Efficient Collaboration Across Heterogeneous Accelerators in Embodied AI Systems**|Jieke Lin et.al.|[2505.10183](http://arxiv.org/abs/2505.10183)|null|
@@ -2890,6 +2905,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-19**|**GraspMolmo: Generalizable Task-Oriented Grasping via Large-Scale Synthetic Data Generation**|Abhay Deshpande et.al.|[2505.13441](http://arxiv.org/abs/2505.13441)|null|
+|**2025-05-19**|**A Practical Guide for Incorporating Symmetry in Diffusion Policy**|Dian Wang et.al.|[2505.13431](http://arxiv.org/abs/2505.13431)|null|
+|**2025-05-19**|**Seeing, Saying, Solving: An LLM-to-TL Framework for Cooperative Robots**|Dan BW Choe et.al.|[2505.13376](http://arxiv.org/abs/2505.13376)|null|
+|**2025-05-19**|**Approximating Global Contact-Implicit MPC via Sampling and Local Complementarity**|Sharanya Venkatesh et.al.|[2505.13350](http://arxiv.org/abs/2505.13350)|null|
+|**2025-05-19**|**OPA-Pack: Object-Property-Aware Robotic Bin Packing**|Jia-Hui Pan et.al.|[2505.13339](http://arxiv.org/abs/2505.13339)|null|
+|**2025-05-19**|**Scalable Importance Sampling in High Dimensions with Low-Rank Mixture Proposals**|Liam A. Kruse et.al.|[2505.13335](http://arxiv.org/abs/2505.13335)|null|
+|**2025-05-19**|**eStonefish-scenes: A synthetically generated dataset for underwater event-based optical flow prediction tasks**|Jad Mansour et.al.|[2505.13309](http://arxiv.org/abs/2505.13309)|null|
+|**2025-05-19**|**Hybrid Voting-Based Task Assignment in Modular Construction Scenarios**|Daniel Weiner et.al.|[2505.13278](http://arxiv.org/abs/2505.13278)|null|
+|**2025-05-19**|**From Automation to Autonomy: A Survey on Large Language Models in Scientific Discovery**|Tianshi Zheng et.al.|[2505.13259](http://arxiv.org/abs/2505.13259)|**[link](https://github.com/hkust-knowcomp/awesome-llm-scientific-discovery)**|
+|**2025-05-19**|**Policy Contrastive Decoding for Robotic Foundation Models**|Shihan Wu et.al.|[2505.13255](http://arxiv.org/abs/2505.13255)|**[link](https://github.com/Koorye/PCD)**|
 |**2025-05-16**|**Bracing for Impact: Robust Humanoid Push Recovery and Locomotion with Reduced Order Models**|Lizhi Yang et.al.|[2505.11495](http://arxiv.org/abs/2505.11495)|null|
 |**2025-05-16**|**SHIELD: Safety on Humanoids via CBFs In Expectation on Learned Dynamics**|Lizhi Yang et.al.|[2505.11494](http://arxiv.org/abs/2505.11494)|null|
 |**2025-05-16**|**UMArm: Untethered, Modular, Wearable, Soft Pneumatic Arm**|Runze Zuo et.al.|[2505.11476](http://arxiv.org/abs/2505.11476)|null|

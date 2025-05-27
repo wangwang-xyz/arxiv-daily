@@ -499,6 +499,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-26**|**Sparse2DGS: Sparse-View Surface Reconstruction using 2D Gaussian Splatting with Dense Point Cloud**|Natsuki Takama et.al.|[2505.19854](http://arxiv.org/abs/2505.19854)|null|
+|**2025-05-25**|**Improving Novel view synthesis of 360 $^\circ$ Scenes in Extremely Sparse Views by Jointly Training Hemisphere Sampled Synthetic Images**|Guangan Chen et.al.|[2505.19264](http://arxiv.org/abs/2505.19264)|null|
 |**2025-05-23**|**To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**|Simone Gaisbauer et.al.|[2505.17973](http://arxiv.org/abs/2505.17973)|null|
 |**2025-05-23**|**Tracking the Flight: Exploring a Computational Framework for Analyzing Escape Responses in Plains Zebra (Equus quagga)**|Isla Duporge et.al.|[2505.16882](http://arxiv.org/abs/2505.16882)|null|
 |**2025-05-21**|**A Taxonomy of Structure from Motion Methods**|Federica Arrigoni et.al.|[2505.15814](http://arxiv.org/abs/2505.15814)|null|
@@ -697,6 +699,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-26**|**Multimodal Reasoning Agent for Zero-Shot Composed Image Retrieval**|Rong-Cheng Tu et.al.|[2505.19952](http://arxiv.org/abs/2505.19952)|null|
+|**2025-05-26**|**Can Visual Encoder Learn to See Arrows?**|Naoyuki Terashita et.al.|[2505.19944](http://arxiv.org/abs/2505.19944)|null|
+|**2025-05-26**|**MLLM-Guided VLM Fine-Tuning with Joint Inference for Zero-Shot Composed Image Retrieval**|Rong-Cheng Tu et.al.|[2505.19707](http://arxiv.org/abs/2505.19707)|null|
+|**2025-05-24**|**Why Not Replace? Sustaining Long-Term Visual Localization via Handcrafted-Learned Feature Collaboration on CPU**|Yicheng Lin et.al.|[2505.18652](http://arxiv.org/abs/2505.18652)|null|
+|**2025-05-24**|**TNG-CLIP:Training-Time Negation Data Generation for Negation Awareness of CLIP**|Yuliang Cai et.al.|[2505.18434](http://arxiv.org/abs/2505.18434)|null|
+|**2025-05-23**|**ImLPR: Image-based LiDAR Place Recognition using Vision Foundation Models**|Minwoo Jung et.al.|[2505.18364](http://arxiv.org/abs/2505.18364)|null|
+|**2025-05-23**|**DART $^3$ : Leveraging Distance for Test Time Adaptation in Person Re-Identification**|Rajarshi Bhattacharya et.al.|[2505.18337](http://arxiv.org/abs/2505.18337)|null|
 |**2025-05-23**|**To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**|Simone Gaisbauer et.al.|[2505.17973](http://arxiv.org/abs/2505.17973)|null|
 |**2025-05-23**|**DetailFusion: A Dual-branch Framework with Detail Enhancement for Composed Image Retrieval**|Yuxin Yang et.al.|[2505.17796](http://arxiv.org/abs/2505.17796)|null|
 |**2025-05-23**|**CU-Multi: A Dataset for Multi-Robot Data Association**|Doncey Albin et.al.|[2505.17576](http://arxiv.org/abs/2505.17576)|null|
@@ -2878,6 +2887,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-25**|**Veta-GS: View-dependent deformable 3D Gaussian Splatting for thermal infrared Novel-view Synthesis**|Myeongseok Nam et.al.|[2505.19138](http://arxiv.org/abs/2505.19138)|null|
 |**2025-05-07**|**Bridging Geometry-Coherent Text-to-3D Generation with Multi-View Diffusion Priors and Gaussian Splatting**|Feng Yang et.al.|[2505.04262](http://arxiv.org/abs/2505.04262)|null|
 |**2025-05-01**|**TransparentGS: Fast Inverse Rendering of Transparent Objects with Gaussians**|Letian Huang et.al.|[2504.18768](http://arxiv.org/abs/2504.18768)|null|
 |**2025-04-21**|**StyleMe3D: Stylization with Disentangled Priors by Multiple Encoders on 3D Gaussians**|Cailin Zhuang et.al.|[2504.15281](http://arxiv.org/abs/2504.15281)|null|
@@ -2895,6 +2905,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-26**|**OB3D: A New Dataset for Benchmarking Omnidirectional 3D Reconstruction Using Blender**|Shintaro Ito et.al.|[2505.20126](http://arxiv.org/abs/2505.20126)|null|
+|**2025-05-26**|**ErpGS: Equirectangular Image Rendering enhanced with 3D Gaussian Regularization**|Shintaro Ito et.al.|[2505.19883](http://arxiv.org/abs/2505.19883)|null|
+|**2025-05-26**|**Sparse2DGS: Sparse-View Surface Reconstruction using 2D Gaussian Splatting with Dense Point Cloud**|Natsuki Takama et.al.|[2505.19854](http://arxiv.org/abs/2505.19854)|null|
+|**2025-05-26**|**GoLF-NRT: Integrating Global Context and Local Geometry for Few-Shot View Synthesis**|You Wang et.al.|[2505.19813](http://arxiv.org/abs/2505.19813)|null|
+|**2025-05-25**|**Staircase Recognition and Location Based on Polarization Vision**|Weifeng Kong et.al.|[2505.19026](http://arxiv.org/abs/2505.19026)|null|
+|**2025-05-24**|**SuperGS: Consistent and Detailed 3D Super-Resolution Scene Reconstruction via Gaussian Splatting**|Shiyun Xie et.al.|[2505.18649](http://arxiv.org/abs/2505.18649)|null|
 |**2025-05-23**|**Canonical Pose Reconstruction from Single Depth Image for 3D Non-rigid Pose Recovery on Limited Datasets**|Fahd Alhamazani et.al.|[2505.17992](http://arxiv.org/abs/2505.17992)|null|
 |**2025-05-23**|**Is Single-View Mesh Reconstruction Ready for Robotics?**|Frederik Nolte et.al.|[2505.17966](http://arxiv.org/abs/2505.17966)|null|
 |**2025-05-23**|**Towards Dynamic 3D Reconstruction of Hand-Instrument Interaction in Ophthalmic Surgery**|Ming Hu et.al.|[2505.17677](http://arxiv.org/abs/2505.17677)|null|
@@ -2938,6 +2954,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-26**|**Agentic 3D Scene Generation with Spatially Contextualized VLMs**|Xinhang Liu et.al.|[2505.20129](http://arxiv.org/abs/2505.20129)|null|
+|**2025-05-26**|**What Can RL Bring to VLA Generalization? An Empirical Study**|Jijia Liu et.al.|[2505.19789](http://arxiv.org/abs/2505.19789)|null|
+|**2025-05-26**|**LLM Meets Scene Graph: Can Large Language Models Understand and Generate Scene Graphs? A Benchmark and Empirical Study**|Dongil Yang et.al.|[2505.19510](http://arxiv.org/abs/2505.19510)|null|
+|**2025-05-23**|**Task-Optimized Convolutional Recurrent Networks Align with Tactile Processing in the Rodent Brain**|Trinity Chung et.al.|[2505.18361](http://arxiv.org/abs/2505.18361)|null|
 |**2025-05-23**|**DanceTogether! Identity-Preserving Multi-Person Interactive Video Generation**|Junhao Chen et.al.|[2505.18078](http://arxiv.org/abs/2505.18078)|null|
 |**2025-05-22**|**Beyond Needle(s) in the Embodied Haystack: Environment, Architecture, and Training Considerations for Long Context Reasoning**|Bosung Kim et.al.|[2505.16928](http://arxiv.org/abs/2505.16928)|null|
 |**2025-05-22**|**Perceptual Quality Assessment for Embodied AI**|Chunyi Li et.al.|[2505.16815](http://arxiv.org/abs/2505.16815)|**[link](https://github.com/lcysyzxdxc/embodiediqa)**|
@@ -2970,6 +2990,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-26**|**MineAnyBuild: Benchmarking Spatial Planning for Open-world AI Agents**|Ziming Wei et.al.|[2505.20148](http://arxiv.org/abs/2505.20148)|null|
+|**2025-05-26**|**Target Tracking via LiDAR-RADAR Sensor Fusion for Autonomous Racing**|Marcello Cellina et.al.|[2505.20043](http://arxiv.org/abs/2505.20043)|null|
+|**2025-05-26**|**ViTaPEs: Visuotactile Position Encodings for Cross-Modal Alignment in Multimodal Transformers**|Fotios Lygerakis et.al.|[2505.20032](http://arxiv.org/abs/2505.20032)|null|
+|**2025-05-26**|**ReasonPlan: Unified Scene Prediction and Decision Reasoning for Closed-loop Autonomous Driving**|Xueyi Liu et.al.|[2505.20024](http://arxiv.org/abs/2505.20024)|null|
+|**2025-05-26**|**A Cooperative Aerial System of A Payload Drone Equipped with Dexterous Rappelling End Droid for Cluttered Space Pickup**|Wenjing Ren et.al.|[2505.19980](http://arxiv.org/abs/2505.19980)|null|
+|**2025-05-26**|**Uncertainty-Aware Safety-Critical Decision and Control for Autonomous Vehicles at Unsignalized Intersections**|Ran Yu et.al.|[2505.19939](http://arxiv.org/abs/2505.19939)|null|
+|**2025-05-26**|**EMAC+: Embodied Multimodal Agent for Collaborative Planning with VLM+LLM**|Shuang Ao et.al.|[2505.19905](http://arxiv.org/abs/2505.19905)|null|
+|**2025-05-26**|**Deep Active Inference Agents for Delayed and Long-Horizon Environments**|Yavar Taheri Yeganeh et.al.|[2505.19867](http://arxiv.org/abs/2505.19867)|null|
+|**2025-05-26**|**Causal Bayesian Networks for Data-driven Safety Analysis of Complex Systems**|Roman Gansch et.al.|[2505.19860](http://arxiv.org/abs/2505.19860)|null|
+|**2025-05-26**|**DISCOVER: Automated Curricula for Sparse-Reward Reinforcement Learning**|Leander Diaz-Bone et.al.|[2505.19850](http://arxiv.org/abs/2505.19850)|null|
 |**2025-05-23**|**Rotational Multi-material 3D Printing of Soft Robotic Matter with Asymmetrical Embedded Pneumatics**|Jackson K. Wilt et.al.|[2505.18095](http://arxiv.org/abs/2505.18095)|null|
 |**2025-05-23**|**What Do You Need for Diverse Trajectory Stitching in Diffusion Planning?**|Quentin Clark et.al.|[2505.18083](http://arxiv.org/abs/2505.18083)|null|
 |**2025-05-23**|**DanceTogether! Identity-Preserving Multi-Person Interactive Video Generation**|Junhao Chen et.al.|[2505.18078](http://arxiv.org/abs/2505.18078)|null|

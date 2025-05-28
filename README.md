@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.27
+## Updated on 2025.05.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -493,7 +493,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20250527>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250528>back to top</a>)</p>
 
 ## SFM
 
@@ -693,7 +693,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20250527>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250528>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1459,7 +1459,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20250527>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250528>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1678,7 +1678,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20250527>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250528>back to top</a>)</p>
 
 ## Image Matching
 
@@ -1904,7 +1904,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20250527>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250528>back to top</a>)</p>
 
 ## NeRF
 
@@ -2881,7 +2881,7 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20250527>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250528>back to top</a>)</p>
 
 ## 3D GS
 
@@ -2899,7 +2899,7 @@
 |**2025-03-10**|**SOGS: Second-Order Anchor for Advanced 3D Gaussian Splatting**|Jiahui Zhang et.al.|[2503.07476](http://arxiv.org/abs/2503.07476)|null|
 |**2025-05-18**|**ForestSplats: Deformable transient field for Gaussian Splatting in the Wild**|Wongi Park et.al.|[2503.06179](http://arxiv.org/abs/2503.06179)|null|
 
-<p align=right>(<a href=#updated-on-20250527>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250528>back to top</a>)</p>
 
 ## Scene Completion
 
@@ -2948,7 +2948,7 @@
 |**2025-05-13**|**ADC-GS: Anchor-Driven Deformable and Compressed Gaussian Splatting for Dynamic Scene Reconstruction**|He Huang et.al.|[2505.08196](http://arxiv.org/abs/2505.08196)|**[link](https://github.com/h-huang774/adc-gs)**|
 |**2025-05-12**|**RDD: Robust Feature Detector and Descriptor using Deformable Transformer**|Gonglin Chen et.al.|[2505.08013](http://arxiv.org/abs/2505.08013)|null|
 
-<p align=right>(<a href=#updated-on-20250527>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250528>back to top</a>)</p>
 
 ## Embodied Intelligence
 
@@ -2957,7 +2957,7 @@
 |**2025-05-26**|**Agentic 3D Scene Generation with Spatially Contextualized VLMs**|Xinhang Liu et.al.|[2505.20129](http://arxiv.org/abs/2505.20129)|null|
 |**2025-05-26**|**What Can RL Bring to VLA Generalization? An Empirical Study**|Jijia Liu et.al.|[2505.19789](http://arxiv.org/abs/2505.19789)|null|
 |**2025-05-26**|**LLM Meets Scene Graph: Can Large Language Models Understand and Generate Scene Graphs? A Benchmark and Empirical Study**|Dongil Yang et.al.|[2505.19510](http://arxiv.org/abs/2505.19510)|null|
-|**2025-05-23**|**Task-Optimized Convolutional Recurrent Networks Align with Tactile Processing in the Rodent Brain**|Trinity Chung et.al.|[2505.18361](http://arxiv.org/abs/2505.18361)|null|
+|**2025-05-27**|**Task-Optimized Convolutional Recurrent Networks Align with Tactile Processing in the Rodent Brain**|Trinity Chung et.al.|[2505.18361](http://arxiv.org/abs/2505.18361)|null|
 |**2025-05-23**|**DanceTogether! Identity-Preserving Multi-Person Interactive Video Generation**|Junhao Chen et.al.|[2505.18078](http://arxiv.org/abs/2505.18078)|null|
 |**2025-05-22**|**Beyond Needle(s) in the Embodied Haystack: Environment, Architecture, and Training Considerations for Long Context Reasoning**|Bosung Kim et.al.|[2505.16928](http://arxiv.org/abs/2505.16928)|null|
 |**2025-05-22**|**Perceptual Quality Assessment for Embodied AI**|Chunyi Li et.al.|[2505.16815](http://arxiv.org/abs/2505.16815)|**[link](https://github.com/lcysyzxdxc/embodiediqa)**|
@@ -2984,13 +2984,13 @@
 |**2025-05-10**|**ACORN: Adaptive Contrastive Optimization for Safe and Robust Fine-Grained Robotic Manipulation**|Zhongquan Zhou et.al.|[2505.06628](http://arxiv.org/abs/2505.06628)|null|
 |**2025-05-10**|**GRACE: Estimating Geometry-level 3D Human-Scene Contact from 2D Images**|Chengfeng Wang et.al.|[2505.06575](http://arxiv.org/abs/2505.06575)|null|
 
-<p align=right>(<a href=#updated-on-20250527>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250528>back to top</a>)</p>
 
 ## Robotics
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-26**|**MineAnyBuild: Benchmarking Spatial Planning for Open-world AI Agents**|Ziming Wei et.al.|[2505.20148](http://arxiv.org/abs/2505.20148)|null|
+|**2025-05-27**|**MineAnyBuild: Benchmarking Spatial Planning for Open-world AI Agents**|Ziming Wei et.al.|[2505.20148](http://arxiv.org/abs/2505.20148)|null|
 |**2025-05-26**|**Target Tracking via LiDAR-RADAR Sensor Fusion for Autonomous Racing**|Marcello Cellina et.al.|[2505.20043](http://arxiv.org/abs/2505.20043)|null|
 |**2025-05-26**|**ViTaPEs: Visuotactile Position Encodings for Cross-Modal Alignment in Multimodal Transformers**|Fotios Lygerakis et.al.|[2505.20032](http://arxiv.org/abs/2505.20032)|null|
 |**2025-05-26**|**ReasonPlan: Unified Scene Prediction and Decision Reasoning for Closed-loop Autonomous Driving**|Xueyi Liu et.al.|[2505.20024](http://arxiv.org/abs/2505.20024)|null|
@@ -3071,7 +3071,7 @@
 |**2025-05-15**|**AutoCam: Hierarchical Path Planning for an Autonomous Auxiliary Camera in Surgical Robotics**|Alexandre Banks et.al.|[2505.10398](http://arxiv.org/abs/2505.10398)|null|
 |**2025-05-15**|**Multi-Agent Path Finding For Large Agents Is Intractable**|Artem Agafonov et.al.|[2505.10387](http://arxiv.org/abs/2505.10387)|null|
 
-<p align=right>(<a href=#updated-on-20250527>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250528>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

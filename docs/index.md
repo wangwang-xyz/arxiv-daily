@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.01
+## Updated on 2025.06.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2892,9 +2892,9 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-29**|**MMSI-Bench: A Benchmark for Multi-Image Spatial Intelligence**|Sihan Yang et.al.|[2505.23764](http://arxiv.org/abs/2505.23764)|null|
 |**2025-05-29**|**Radiant Triangle Soup with Soft Connectivity Forces for 3D Reconstruction and Novel View Synthesis**|Nathaniel Burgdorfer et.al.|[2505.23642](http://arxiv.org/abs/2505.23642)|null|
-|**2025-05-29**|**PhysicsNeRF: Physics-Guided 3D Reconstruction from Sparse Views**|Mohamed Rayan Barhdadi et.al.|[2505.23481](http://arxiv.org/abs/2505.23481)|null|
+|**2025-05-29**|**PhysicsNeRF: Physics-Guided 3D Reconstruction from Sparse Views**|Mohamed Rayan Barhdadi et.al.|[2505.23481](http://arxiv.org/abs/2505.23481)|**[link](https://github.com/anonymous-researcher-01/physicsnerf)**|
 |**2025-05-29**|**UrbanCraft: Urban View Extrapolation via Hierarchical Sem-Geometric Priors**|Tianhang Wang et.al.|[2505.23434](http://arxiv.org/abs/2505.23434)|null|
-|**2025-05-29**|**Holistic Large-Scale Scene Reconstruction via Mixed Gaussian Splatting**|Chuandong Liu et.al.|[2505.23280](http://arxiv.org/abs/2505.23280)|null|
+|**2025-05-29**|**Holistic Large-Scale Scene Reconstruction via Mixed Gaussian Splatting**|Chuandong Liu et.al.|[2505.23280](http://arxiv.org/abs/2505.23280)|**[link](https://github.com/azhuantou/mixgs)**|
 |**2025-05-29**|**Zero-P-to-3: Zero-Shot Partial-View Images to 3D Object**|Yuxuan Lin et.al.|[2505.23054](http://arxiv.org/abs/2505.23054)|null|
 |**2025-05-29**|**SpatialSplat: Efficient Semantic 3D from Sparse Unposed Images**|Yu Sheng et.al.|[2505.23044](http://arxiv.org/abs/2505.23044)|null|
 |**2025-05-29**|**Pose-free 3D Gaussian splatting via shape-ray estimation**|Youngju Na et.al.|[2505.22978](http://arxiv.org/abs/2505.22978)|null|

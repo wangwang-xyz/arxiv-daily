@@ -485,6 +485,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-02**|**Fast and Robust Rotation Averaging with Anisotropic Coordinate Descent**|Yaroslava Lochman et.al.|[2506.01940](http://arxiv.org/abs/2506.01940)|null|
 |**2025-05-29**|**Rooms from Motion: Un-posed Indoor 3D Object Detection as Localization and Mapping**|Justin Lazarow et.al.|[2505.23756](http://arxiv.org/abs/2505.23756)|null|
 |**2025-05-28**|**Fast Feature Matching of UAV Images via Matrix Band Reduction-based GPU Data Schedule**|San Jiang et.al.|[2505.22089](http://arxiv.org/abs/2505.22089)|null|
 |**2025-05-27**|**Intern-GS: Vision Model Guided Sparse-View 3D Gaussian Splatting**|Xiangyu Sun et.al.|[2505.20729](http://arxiv.org/abs/2505.20729)|null|
@@ -686,6 +687,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-02**|**Entity Image and Mixed-Modal Image Retrieval Datasets**|Cristian-Ioan Blaga et.al.|[2506.02291](http://arxiv.org/abs/2506.02291)|null|
+|**2025-06-01**|**Quantization-based Bounds on the Wasserstein Metric**|Jonathan Bobrutsky et.al.|[2506.00976](http://arxiv.org/abs/2506.00976)|null|
 |**2025-05-30**|**SORCE: Small Object Retrieval in Complex Environments**|Chunxu Liu et.al.|[2505.24441](http://arxiv.org/abs/2505.24441)|null|
 |**2025-05-29**|**Sketch Down the FLOPs: Towards Efficient Networks for Human Sketch**|Aneeshan Sain et.al.|[2505.23763](http://arxiv.org/abs/2505.23763)|null|
 |**2025-05-28**|**4DTAM: Non-Rigid Tracking and Mapping via Dynamic Surface Gaussians**|Hidenobu Matsuki et.al.|[2505.22859](http://arxiv.org/abs/2505.22859)|null|
@@ -2892,6 +2895,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-03**|**LEG-SLAM: Real-Time Language-Enhanced Gaussian Splatting for SLAM**|Roman Titkov et.al.|[2506.03073](http://arxiv.org/abs/2506.03073)|null|
+|**2025-06-02**|**Rig3R: Rig-Aware Conditioning for Learned 3D Reconstruction**|Samuel Li et.al.|[2506.02265](http://arxiv.org/abs/2506.02265)|null|
+|**2025-06-02**|**SAB3R: Semantic-Augmented Backbone in 3D Reconstruction**|Xuweiyi Chen et.al.|[2506.02112](http://arxiv.org/abs/2506.02112)|null|
+|**2025-06-02**|**E3D-Bench: A Benchmark for End-to-End 3D Geometric Foundation Models**|Wenyan Cong et.al.|[2506.01933](http://arxiv.org/abs/2506.01933)|null|
+|**2025-06-02**|**Neural shape reconstruction from multiple views with static pattern projection**|Ryo Furukawa et.al.|[2506.01389](http://arxiv.org/abs/2506.01389)|null|
+|**2025-06-02**|**RadarSplat: Radar Gaussian Splatting for High-Fidelity Data Synthesis and 3D Reconstruction of Autonomous Driving Scenes**|Pou-Chun Kung et.al.|[2506.01379](http://arxiv.org/abs/2506.01379)|null|
+|**2025-06-01**|**CountingFruit: Real-Time 3D Fruit Counting with Language-Guided Semantic Gaussian Splatting**|Fengze Li et.al.|[2506.01109](http://arxiv.org/abs/2506.01109)|null|
+|**2025-06-01**|**Globally Consistent RGB-D SLAM with 2D Gaussian Splatting**|Xingguang Zhong et.al.|[2506.00970](http://arxiv.org/abs/2506.00970)|null|
+|**2025-06-01**|**TIGeR: Text-Instructed Generation and Refinement for Template-Free Hand-Object Interaction**|Yiyao Huang et.al.|[2506.00953](http://arxiv.org/abs/2506.00953)|null|
+|**2025-05-31**|**MR2US-Pro: Prostate MR to Ultrasound Image Translation and Registration Based on Diffusion Models**|Xudong Ma et.al.|[2506.00591](http://arxiv.org/abs/2506.00591)|null|
 |**2025-05-30**|**Tackling View-Dependent Semantics in 3D Language Gaussian Splatting**|Jiazhong Cen et.al.|[2505.24746](http://arxiv.org/abs/2505.24746)|null|
 |**2025-05-30**|**SR3D: Unleashing Single-view 3D Reconstruction for Transparent and Specular Object Grasping**|Mingxu Zhang et.al.|[2505.24305](http://arxiv.org/abs/2505.24305)|null|
 |**2025-05-29**|**MMSI-Bench: A Benchmark for Multi-Image Spatial Intelligence**|Sihan Yang et.al.|[2505.23764](http://arxiv.org/abs/2505.23764)|null|
@@ -2964,6 +2977,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-03**|**EgoVLM: Policy Optimization for Egocentric Video Understanding**|Ashwin Vinod et.al.|[2506.03097](http://arxiv.org/abs/2506.03097)|null|
+|**2025-06-02**|**Rig3R: Rig-Aware Conditioning for Learned 3D Reconstruction**|Samuel Li et.al.|[2506.02265](http://arxiv.org/abs/2506.02265)|null|
+|**2025-06-02**|**SAB3R: Semantic-Augmented Backbone in 3D Reconstruction**|Xuweiyi Chen et.al.|[2506.02112](http://arxiv.org/abs/2506.02112)|null|
+|**2025-06-01**|**In-the-wild Audio Spatialization with Flexible Text-guided Localization**|Tianrui Pan et.al.|[2506.00927](http://arxiv.org/abs/2506.00927)|null|
+|**2025-05-30**|**Curate, Connect, Inquire: A System for Findable Accessible Interoperable and Reusable (FAIR) Human-Robot Centered Datasets**|Xingru Zhou et.al.|[2506.00220](http://arxiv.org/abs/2506.00220)|null|
 |**2025-05-30**|**Out of Sight, Not Out of Context? Egocentric Spatial Reasoning in VLMs Across Disjoint Frames**|Sahithya Ravi et.al.|[2505.24257](http://arxiv.org/abs/2505.24257)|null|
 |**2025-05-29**|**TrackVLA: Embodied Visual Tracking in the Wild**|Shaoan Wang et.al.|[2505.23189](http://arxiv.org/abs/2505.23189)|null|
 |**2025-05-29**|**Conceptual Framework Toward Embodied Collective Adaptive Intelligence**|Fan Wang et.al.|[2505.23153](http://arxiv.org/abs/2505.23153)|null|
@@ -3004,6 +3022,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-03**|**DyTact: Capturing Dynamic Contacts in Hand-Object Manipulation**|Xiaoyan Cong et.al.|[2506.03103](http://arxiv.org/abs/2506.03103)|null|
+|**2025-06-03**|**ORV: 4D Occupancy-centric Robot Video Generation**|Xiuyu Yang et.al.|[2506.03079](http://arxiv.org/abs/2506.03079)|null|
+|**2025-06-03**|**LEG-SLAM: Real-Time Language-Enhanced Gaussian Splatting for SLAM**|Roman Titkov et.al.|[2506.03073](http://arxiv.org/abs/2506.03073)|null|
+|**2025-06-03**|**EDEN: Entorhinal Driven Egocentric Navigation Toward Robotic Deployment**|Mikolaj Walczak et.al.|[2506.03046](http://arxiv.org/abs/2506.03046)|null|
+|**2025-06-03**|**Adjusting Tissue Puncture Omnidirectionally In Situ with Pneumatic Rotatable Biopsy Mechanism and Hierarchical Airflow Management in Tortuous Luminal Pathways**|Botao Lin et.al.|[2506.03017](http://arxiv.org/abs/2506.03017)|null|
+|**2025-06-03**|**UniConFlow: A Unified Constrained Generalization Framework for Certified Motion Planning with Flow Matching Models**|Zewen Yang et.al.|[2506.02955](http://arxiv.org/abs/2506.02955)|null|
+|**2025-06-03**|**Online Performance Assessment of Multi-Source-Localization for Autonomous Driving Systems Using Subjective Logic**|Stefan Orf et.al.|[2506.02932](http://arxiv.org/abs/2506.02932)|null|
+|**2025-06-03**|**Functionality Assessment Framework for Autonomous Driving Systems using Subjective Networks**|Stefan Orf et.al.|[2506.02922](http://arxiv.org/abs/2506.02922)|null|
+|**2025-06-03**|**Text-guided Generation of Efficient Personalized Inspection Plans**|Xingpeng Sun et.al.|[2506.02917](http://arxiv.org/abs/2506.02917)|null|
+|**2025-06-03**|**FlySearch: Exploring how vision-language models explore**|Adam Pardyl et.al.|[2506.02896](http://arxiv.org/abs/2506.02896)|null|
 |**2025-05-30**|**PB&J: Peanut Butter and Joints for Damped Articulation**|Avery S. Williamson et.al.|[2505.24860](http://arxiv.org/abs/2505.24860)|null|
 |**2025-05-30**|**DexMachina: Functional Retargeting for Bimanual Dexterous Manipulation**|Zhao Mandi et.al.|[2505.24853](http://arxiv.org/abs/2505.24853)|null|
 |**2025-05-30**|**Bi-Manual Joint Camera Calibration and Scene Representation**|Haozhan Tang et.al.|[2505.24819](http://arxiv.org/abs/2505.24819)|null|

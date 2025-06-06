@@ -26,6 +26,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-04**|**cuVSLAM: CUDA accelerated visual odometry**|Alexander Korovko et.al.|[2506.04359](http://arxiv.org/abs/2506.04359)|null|
 |**2025-05-19**|**eStonefish-scenes: A synthetically generated dataset for underwater event-based optical flow prediction tasks**|Jad Mansour et.al.|[2505.13309](http://arxiv.org/abs/2505.13309)|null|
 |**2025-05-18**|**Structureless VIO**|Junlin Song et.al.|[2505.12337](http://arxiv.org/abs/2505.12337)|null|
 |**2025-05-06**|**Thermal-LiDAR Fusion for Robust Tunnel Localization in GNSS-Denied and Low-Visibility Conditions**|Lukas Schichler et.al.|[2505.03565](http://arxiv.org/abs/2505.03565)|null|
@@ -499,6 +500,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-05**|**SupeRANSAC: One RANSAC to Rule Them All**|Daniel Barath et.al.|[2506.04803](http://arxiv.org/abs/2506.04803)|null|
 |**2025-06-04**|**Voyager: Long-Range and World-Consistent Video Diffusion for Explorable 3D Scene Generation**|Tianyu Huang et.al.|[2506.04225](http://arxiv.org/abs/2506.04225)|null|
 |**2025-06-04**|**Accelerating SfM-based Pose Estimation with Dominating Set**|Joji Joseph et.al.|[2506.03667](http://arxiv.org/abs/2506.03667)|null|
 |**2025-06-02**|**Fast and Robust Rotation Averaging with Anisotropic Coordinate Descent**|Yaroslava Lochman et.al.|[2506.01940](http://arxiv.org/abs/2506.01940)|null|
@@ -705,6 +707,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-05**|**HypeVPR: Exploring Hyperbolic Space for Perspective to Equirectangular Visual Place Recognition**|Suhan Woo et.al.|[2506.04764](http://arxiv.org/abs/2506.04764)|null|
+|**2025-06-05**|**Deep Learning Reforms Image Matching: A Survey and Outlook**|Shihua Zhang et.al.|[2506.04619](http://arxiv.org/abs/2506.04619)|null|
 |**2025-06-02**|**Entity Image and Mixed-Modal Image Retrieval Datasets**|Cristian-Ioan Blaga et.al.|[2506.02291](http://arxiv.org/abs/2506.02291)|null|
 |**2025-06-01**|**Quantization-based Bounds on the Wasserstein Metric**|Jonathan Bobrutsky et.al.|[2506.00976](http://arxiv.org/abs/2506.00976)|null|
 |**2025-05-30**|**SORCE: Small Object Retrieval in Complex Environments**|Chunxu Liu et.al.|[2505.24441](http://arxiv.org/abs/2505.24441)|null|
@@ -2923,6 +2927,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-05**|**FreeTimeGS: Free Gaussians at Anytime and Anywhere for Dynamic Scene Reconstruction**|Yifan Wang et.al.|[2506.05348](http://arxiv.org/abs/2506.05348)|null|
+|**2025-06-05**|**Neural Inverse Rendering from Propagating Light**|Anagh Malik et.al.|[2506.05347](http://arxiv.org/abs/2506.05347)|null|
+|**2025-06-05**|**ProJo4D: Progressive Joint Optimization for Sparse-View Inverse Physics Estimation**|Daniel Rho et.al.|[2506.05317](http://arxiv.org/abs/2506.05317)|null|
+|**2025-06-05**|**Unifying Appearance Codes and Bilateral Grids for Driving Scene Gaussian Splatting**|Nan Wang et.al.|[2506.05280](http://arxiv.org/abs/2506.05280)|null|
+|**2025-06-05**|**DSG-World: Learning a 3D Gaussian World Model from Dual State Videos**|Wenhao Hu et.al.|[2506.05217](http://arxiv.org/abs/2506.05217)|null|
+|**2025-06-05**|**OGGSplat: Open Gaussian Growing for Generalizable Reconstruction with Expanded Field-of-View**|Yanbo Wang et.al.|[2506.05204](http://arxiv.org/abs/2506.05204)|**[link](https://github.com/Yanbo-23/OGGSplat)**|
+|**2025-06-05**|**Deep Learning Reforms Image Matching: A Survey and Outlook**|Shihua Zhang et.al.|[2506.04619](http://arxiv.org/abs/2506.04619)|null|
+|**2025-06-04**|**Photoreal Scene Reconstruction from an Egocentric Device**|Zhaoyang Lv et.al.|[2506.04444](http://arxiv.org/abs/2506.04444)|**[link](https://github.com/facebookresearch/egocentric_splats)**|
 |**2025-06-04**|**Voyager: Long-Range and World-Consistent Video Diffusion for Explorable 3D Scene Generation**|Tianyu Huang et.al.|[2506.04225](http://arxiv.org/abs/2506.04225)|null|
 |**2025-06-04**|**JointSplat: Probabilistic Joint Flow-Depth Optimization for Sparse-View Gaussian Splatting**|Yang Xiao et.al.|[2506.03872](http://arxiv.org/abs/2506.03872)|null|
 |**2025-06-04**|**PlückeRF: A Line-based 3D Representation for Few-view Reconstruction**|Sam Bahrami et.al.|[2506.03713](http://arxiv.org/abs/2506.03713)|null|
@@ -3011,6 +3023,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-05**|**Direct Numerical Layout Generation for 3D Indoor Scene Synthesis via Spatial Reasoning**|Xingjian Ran et.al.|[2506.05341](http://arxiv.org/abs/2506.05341)|null|
+|**2025-06-05**|**OGGSplat: Open Gaussian Growing for Generalizable Reconstruction with Expanded Field-of-View**|Yanbo Wang et.al.|[2506.05204](http://arxiv.org/abs/2506.05204)|**[link](https://github.com/Yanbo-23/OGGSplat)**|
+|**2025-06-05**|**Towards provable probabilistic safety for scalable embodied AI systems**|Linxuan He et.al.|[2506.05171](http://arxiv.org/abs/2506.05171)|null|
+|**2025-06-05**|**GEX: Democratizing Dexterity with Fully-Actuated Dexterous Hand and Exoskeleton Glove**|Yunlong Dong et.al.|[2506.04982](http://arxiv.org/abs/2506.04982)|null|
 |**2025-06-04**|**AetherVision-Bench: An Open-Vocabulary RGB-Infrared Benchmark for Multi-Angle Segmentation across Aerial and Ground Perspectives**|Aniruddh Sikdar et.al.|[2506.03709](http://arxiv.org/abs/2506.03709)|null|
 |**2025-06-04**|**Training Cross-Morphology Embodied AI Agents: From Practical Challenges to Theoretical Foundations**|Shaoshan Liu et.al.|[2506.03613](http://arxiv.org/abs/2506.03613)|null|
 |**2025-06-04**|**SemNav: A Model-Based Planner for Zero-Shot Object Goal Navigation Using Vision-Foundation Models**|Arnab Debnath et.al.|[2506.03516](http://arxiv.org/abs/2506.03516)|null|
@@ -3061,6 +3077,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-05**|**VideoMolmo: Spatio-Temporal Grounding Meets Pointing**|Ghazi Shazan Ahmad et.al.|[2506.05336](http://arxiv.org/abs/2506.05336)|null|
+|**2025-06-05**|**ProJo4D: Progressive Joint Optimization for Sparse-View Inverse Physics Estimation**|Daniel Rho et.al.|[2506.05317](http://arxiv.org/abs/2506.05317)|null|
+|**2025-06-05**|**RaySt3R: Predicting Novel Depth Maps for Zero-Shot Object Completion**|Bardienus P. Duisterhof et.al.|[2506.05285](http://arxiv.org/abs/2506.05285)|null|
+|**2025-06-05**|**Rectified Point Flow: Generic Point Cloud Pose Estimation**|Tao Sun et.al.|[2506.05282](http://arxiv.org/abs/2506.05282)|null|
+|**2025-06-05**|**Spatiotemporal Contrastive Learning for Cross-View Video Localization in Unstructured Off-road Terrains**|Zhiyun Deng et.al.|[2506.05250](http://arxiv.org/abs/2506.05250)|null|
+|**2025-06-05**|**DSG-World: Learning a 3D Gaussian World Model from Dual State Videos**|Wenhao Hu et.al.|[2506.05217](http://arxiv.org/abs/2506.05217)|null|
+|**2025-06-05**|**Towards provable probabilistic safety for scalable embodied AI systems**|Linxuan He et.al.|[2506.05171](http://arxiv.org/abs/2506.05171)|null|
+|**2025-06-05**|**Fabrica: Dual-Arm Assembly of General Multi-Part Objects via Integrated Planning and Learning**|Yunsheng Tian et.al.|[2506.05168](http://arxiv.org/abs/2506.05168)|null|
+|**2025-06-05**|**LiPo: A Lightweight Post-optimization Framework for Smoothing Action Chunks Generated by Learned Policies**|Dongwoo Son et.al.|[2506.05165](http://arxiv.org/abs/2506.05165)|null|
+|**2025-06-05**|**Realizing Text-Driven Motion Generation on NAO Robot: A Reinforcement Learning-Optimized Control Pipeline**|Zihan Xu et.al.|[2506.05117](http://arxiv.org/abs/2506.05117)|**[link](https://github.com/southwestCat/text2motion-nao)**|
 |**2025-06-04**|**Object-centric 3D Motion Field for Robot Learning from Human Videos**|Zhao-Heng Yin et.al.|[2506.04227](http://arxiv.org/abs/2506.04227)|null|
 |**2025-06-04**|**Pseudo-Simulation for Autonomous Driving**|Wei Cao et.al.|[2506.04218](http://arxiv.org/abs/2506.04218)|null|
 |**2025-06-04**|**OWMM-Agent: Open World Mobile Manipulation With Multi-modal Agentic Data Synthesis**|Junting Chen et.al.|[2506.04217](http://arxiv.org/abs/2506.04217)|null|

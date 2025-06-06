@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.05
+## Updated on 2025.06.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3038,7 +3038,7 @@ layout: default
 |**2025-06-04**|**SLAC: Simulation-Pretrained Latent Action Space for Whole-Body Real-World RL**|Jiaheng Hu et.al.|[2506.04147](http://arxiv.org/abs/2506.04147)|null|
 |**2025-06-04**|**Splatting Physical Scenes: End-to-End Real-to-Sim from Imperfect Robot Data**|Ben Moran et.al.|[2506.04120](http://arxiv.org/abs/2506.04120)|null|
 |**2025-06-04**|**AmbiK: Dataset of Ambiguous Tasks in Kitchen Environment**|Anastasiia Ivanova et.al.|[2506.04089](http://arxiv.org/abs/2506.04089)|null|
-|**2025-06-04**|**Optimizing Mesh to Improve the Triangular Expansion Algorithm for Computing Visibility Regions**|Jan Mikula et.al.|[2506.04086](http://arxiv.org/abs/2506.04086)|null|
+|**2025-06-05**|**Optimizing Mesh to Improve the Triangular Expansion Algorithm for Computing Visibility Regions**|Jan Mikula et.al.|[2506.04086](http://arxiv.org/abs/2506.04086)|null|
 |**2025-06-04**|**Autonomous Vehicle Lateral Control Using Deep Reinforcement Learning with MPC-PID Demonstration**|Chengdong Wu et.al.|[2506.04040](http://arxiv.org/abs/2506.04040)|null|
 |**2025-06-04**|**A Bi-Level Optimization Method for Redundant Dual-Arm Minimum Time Problems**|Jonathan Fried et.al.|[2506.03982](http://arxiv.org/abs/2506.03982)|null|
 |**2025-06-03**|**DyTact: Capturing Dynamic Contacts in Hand-Object Manipulation**|Xiaoyan Cong et.al.|[2506.03103](http://arxiv.org/abs/2506.03103)|null|

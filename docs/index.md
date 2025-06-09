@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.07
+## Updated on 2025.06.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -1170,7 +1170,7 @@ layout: default
 |**2023-02-17**|**Towards Unifying Medical Vision-and-Language Pre-training via Soft Prompts**|Zhihong Chen et.al.|[2302.08958](http://arxiv.org/abs/2302.08958)|**[link](https://github.com/zhjohnchan/ptunifier)**|
 |**2023-02-22**|**Fashion Image Retrieval with Multi-Granular Alignment**|Jinkuan Zhu et.al.|[2302.08902](http://arxiv.org/abs/2302.08902)|null|
 |**2023-02-15**|**Unsupervised Hashing via Similarity Distribution Calibration**|Kam Woh Ng et.al.|[2302.07669](http://arxiv.org/abs/2302.07669)|**[link](https://github.com/kamwoh/sdc)**|
-|**2023-02-13**|**Render-and-Compare: Cross-View 6 DoF Localization from Noisy Prior**|Shen Yan et.al.|[2302.06287](http://arxiv.org/abs/2302.06287)|null|
+|**2023-02-13**|**Render-and-Compare: Cross-View 6 DoF Localization from Noisy Prior**|Shen Yan et.al.|[2302.06287](http://arxiv.org/abs/2302.06287)|**[link](https://github.com/choyaa/render2loc)**|
 |**2023-02-13**|**Contour Context: Abstract Structural Distribution for 3D LiDAR Loop Detection and Metric Pose Estimation**|Binqian Jiang et.al.|[2302.06149](http://arxiv.org/abs/2302.06149)|**[link](https://github.com/lewisjiang/contour-context)**|
 |**2023-02-13**|**Correspondence-Free Domain Alignment for Unsupervised Cross-Domain Image Retrieval**|Xu Wang et.al.|[2302.06081](http://arxiv.org/abs/2302.06081)|**[link](https://github.com/wangxu-scu/CoDA)**|
 |**2023-02-11**|**Sketch Less Face Image Retrieval: A New Challenge**|Dawei Dai et.al.|[2302.05576](http://arxiv.org/abs/2302.05576)|**[link](https://github.com/ddw2aigroup2cqupt/slfir)**|
@@ -2884,7 +2884,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-30**|**Tackling View-Dependent Semantics in 3D Language Gaussian Splatting**|Jiazhong Cen et.al.|[2505.24746](http://arxiv.org/abs/2505.24746)|null|
+|**2025-05-30**|**Tackling View-Dependent Semantics in 3D Language Gaussian Splatting**|Jiazhong Cen et.al.|[2505.24746](http://arxiv.org/abs/2505.24746)|**[link](https://github.com/sjtu-deepvisionlab/laga)**|
 |**2025-05-25**|**Veta-GS: View-dependent deformable 3D Gaussian Splatting for thermal infrared Novel-view Synthesis**|Myeongseok Nam et.al.|[2505.19138](http://arxiv.org/abs/2505.19138)|null|
 |**2025-05-07**|**Bridging Geometry-Coherent Text-to-3D Generation with Multi-View Diffusion Priors and Gaussian Splatting**|Feng Yang et.al.|[2505.04262](http://arxiv.org/abs/2505.04262)|null|
 |**2025-05-01**|**TransparentGS: Fast Inverse Rendering of Transparent Objects with Gaussians**|Letian Huang et.al.|[2504.18768](http://arxiv.org/abs/2504.18768)|null|
@@ -2923,7 +2923,7 @@ layout: default
 |**2025-06-01**|**Globally Consistent RGB-D SLAM with 2D Gaussian Splatting**|Xingguang Zhong et.al.|[2506.00970](http://arxiv.org/abs/2506.00970)|null|
 |**2025-06-01**|**TIGeR: Text-Instructed Generation and Refinement for Template-Free Hand-Object Interaction**|Yiyao Huang et.al.|[2506.00953](http://arxiv.org/abs/2506.00953)|null|
 |**2025-05-31**|**MR2US-Pro: Prostate MR to Ultrasound Image Translation and Registration Based on Diffusion Models**|Xudong Ma et.al.|[2506.00591](http://arxiv.org/abs/2506.00591)|null|
-|**2025-05-30**|**Tackling View-Dependent Semantics in 3D Language Gaussian Splatting**|Jiazhong Cen et.al.|[2505.24746](http://arxiv.org/abs/2505.24746)|null|
+|**2025-05-30**|**Tackling View-Dependent Semantics in 3D Language Gaussian Splatting**|Jiazhong Cen et.al.|[2505.24746](http://arxiv.org/abs/2505.24746)|**[link](https://github.com/sjtu-deepvisionlab/laga)**|
 |**2025-05-30**|**SR3D: Unleashing Single-view 3D Reconstruction for Transparent and Specular Object Grasping**|Mingxu Zhang et.al.|[2505.24305](http://arxiv.org/abs/2505.24305)|null|
 |**2025-05-29**|**MMSI-Bench: A Benchmark for Multi-Image Spatial Intelligence**|Sihan Yang et.al.|[2505.23764](http://arxiv.org/abs/2505.23764)|null|
 |**2025-05-29**|**Radiant Triangle Soup with Soft Connectivity Forces for 3D Reconstruction and Novel View Synthesis**|Nathaniel Burgdorfer et.al.|[2505.23642](http://arxiv.org/abs/2505.23642)|null|
@@ -2946,7 +2946,7 @@ layout: default
 |**2025-05-27**|**OmniIndoor3D: Comprehensive Indoor 3D Reconstruction**|Xiaobao Wei et.al.|[2505.20610](http://arxiv.org/abs/2505.20610)|null|
 |**2025-05-26**|**CCL-LGS: Contrastive Codebook Learning for 3D Language Gaussian Splatting**|Lei Tian et.al.|[2505.20469](http://arxiv.org/abs/2505.20469)|null|
 |**2025-05-26**|**VLM-3R: Vision-Language Models Augmented with Instruction-Aligned 3D Reconstruction**|Zhiwen Fan et.al.|[2505.20279](http://arxiv.org/abs/2505.20279)|**[link](https://github.com/VITA-Group/VLM-3R)**|
-|**2025-05-26**|**ParticleGS: Particle-Based Dynamics Modeling of 3D Gaussians for Prior-free Motion Extrapolation**|Jinsheng Quan et.al.|[2505.20270](http://arxiv.org/abs/2505.20270)|null|
+|**2025-05-26**|**ParticleGS: Particle-Based Dynamics Modeling of 3D Gaussians for Prior-free Motion Extrapolation**|Jinsheng Quan et.al.|[2505.20270](http://arxiv.org/abs/2505.20270)|**[link](https://github.com/quanjinsheng/particlegs)**|
 |**2025-05-26**|**HaloGS: Loose Coupling of Compact Geometry and Gaussian Splats for 3D Scenes**|Changjian Jiang et.al.|[2505.20267](http://arxiv.org/abs/2505.20267)|null|
 |**2025-05-26**|**OB3D: A New Dataset for Benchmarking Omnidirectional 3D Reconstruction Using Blender**|Shintaro Ito et.al.|[2505.20126](http://arxiv.org/abs/2505.20126)|**[link](https://github.com/gsisaoki/omnidirectional_blender_3d_dataset)**|
 |**2025-05-26**|**ErpGS: Equirectangular Image Rendering enhanced with 3D Gaussian Regularization**|Shintaro Ito et.al.|[2505.19883](http://arxiv.org/abs/2505.19883)|null|
@@ -3077,7 +3077,7 @@ layout: default
 |**2025-06-03**|**Functionality Assessment Framework for Autonomous Driving Systems using Subjective Networks**|Stefan Orf et.al.|[2506.02922](http://arxiv.org/abs/2506.02922)|null|
 |**2025-06-03**|**Text-guided Generation of Efficient Personalized Inspection Plans**|Xingpeng Sun et.al.|[2506.02917](http://arxiv.org/abs/2506.02917)|null|
 |**2025-06-04**|**FlySearch: Exploring how vision-language models explore**|Adam Pardyl et.al.|[2506.02896](http://arxiv.org/abs/2506.02896)|null|
-|**2025-05-30**|**PB&J: Peanut Butter and Joints for Damped Articulation**|Avery S. Williamson et.al.|[2505.24860](http://arxiv.org/abs/2505.24860)|null|
+|**2025-05-30**|**PB&J: Peanut Butter and Joints for Damped Articulation**|Avery S. Williamson et.al.|[2505.24860](http://arxiv.org/abs/2505.24860)|**[link](https://github.com/cmu-borg/peanutbutter-and-joints)**|
 |**2025-05-30**|**DexMachina: Functional Retargeting for Bimanual Dexterous Manipulation**|Zhao Mandi et.al.|[2505.24853](http://arxiv.org/abs/2505.24853)|null|
 |**2025-05-30**|**Bi-Manual Joint Camera Calibration and Scene Representation**|Haozhan Tang et.al.|[2505.24819](http://arxiv.org/abs/2505.24819)|null|
 |**2025-05-30**|**RealDrive: Retrieval-Augmented Driving with Diffusion Models**|Wenhao Ding et.al.|[2505.24808](http://arxiv.org/abs/2505.24808)|null|
@@ -3096,7 +3096,7 @@ layout: default
 |**2025-05-29**|**A Robot-Assisted Approach to Small Talk Training for Adults with ASD**|Rebecca Ramnauth et.al.|[2505.23508](http://arxiv.org/abs/2505.23508)|null|
 |**2025-05-29**|**Humanoid Loco-manipulation Planning based on Graph Search and Reachability Maps**|Masaki Murooka et.al.|[2505.23505](http://arxiv.org/abs/2505.23505)|null|
 |**2025-05-29**|**Optimization-based Posture Generation for Whole-body Contact Motion by Contact Point Search on the Body Surface**|Masaki Murooka et.al.|[2505.23501](http://arxiv.org/abs/2505.23501)|null|
-|**2025-05-29**|**Centroidal Trajectory Generation and Stabilization based on Preview Control for Humanoid Multi-contact Motion**|Masaki Murooka et.al.|[2505.23499](http://arxiv.org/abs/2505.23499)|null|
+|**2025-05-29**|**Centroidal Trajectory Generation and Stabilization based on Preview Control for Humanoid Multi-contact Motion**|Masaki Murooka et.al.|[2505.23499](http://arxiv.org/abs/2505.23499)|**[link](https://github.com/isri-aist/MultiContactController)**|
 |**2025-05-29**|**FastTD3: Simple, Fast, and Capable Reinforcement Learning for Humanoid Control**|Younggyo Seo et.al.|[2505.22642](http://arxiv.org/abs/2505.22642)|null|
 |**2025-05-28**|**LabUtopia: High-Fidelity Simulation and Hierarchical Benchmark for Scientific Embodied Agents**|Rui Li et.al.|[2505.22634](http://arxiv.org/abs/2505.22634)|null|
 |**2025-05-28**|**SCIZOR: A Self-Supervised Approach to Data Curation for Large-Scale Imitation Learning**|Yu Zhang et.al.|[2505.22626](http://arxiv.org/abs/2505.22626)|null|

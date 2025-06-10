@@ -26,6 +26,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-09**|**ZeroVO: Visual Odometry with Minimal Assumptions**|Lei Lai et.al.|[2506.08005](http://arxiv.org/abs/2506.08005)|null|
+|**2025-06-08**|**UNO: Unified Self-Supervised Monocular Odometry for Platform-Agnostic Deployment**|Wentao Zhao et.al.|[2506.07013](http://arxiv.org/abs/2506.07013)|null|
 |**2025-06-04**|**cuVSLAM: CUDA accelerated visual odometry**|Alexander Korovko et.al.|[2506.04359](http://arxiv.org/abs/2506.04359)|null|
 |**2025-05-19**|**eStonefish-scenes: A synthetically generated dataset for underwater event-based optical flow prediction tasks**|Jad Mansour et.al.|[2505.13309](http://arxiv.org/abs/2505.13309)|null|
 |**2025-05-18**|**Structureless VIO**|Junlin Song et.al.|[2505.12337](http://arxiv.org/abs/2505.12337)|null|
@@ -709,6 +711,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-08**|**Interpretable and Reliable Detection of AI-Generated Images via Grounded Reasoning in MLLMs**|Yikun Ji et.al.|[2506.07045](http://arxiv.org/abs/2506.07045)|null|
+|**2025-06-07**|**Zero Shot Composed Image Retrieval**|Santhosh Kakarla et.al.|[2506.06602](http://arxiv.org/abs/2506.06602)|null|
 |**2025-06-06**|**GenIR: Generative Visual Feedback for Mental Image Retrieval**|Diji Yang et.al.|[2506.06220](http://arxiv.org/abs/2506.06220)|null|
 |**2025-06-06**|**Astra: Toward General-Purpose Mobile Robots via Hierarchical Multimodal Learning**|Sheng Chen et.al.|[2506.06205](http://arxiv.org/abs/2506.06205)|null|
 |**2025-06-05**|**HypeVPR: Exploring Hyperbolic Space for Perspective to Equirectangular Visual Place Recognition**|Suhan Woo et.al.|[2506.04764](http://arxiv.org/abs/2506.04764)|null|
@@ -2912,6 +2916,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-07**|**Multi-StyleGS: Stylizing Gaussian Splatting with Multiple Styles**|Yangkai Lin et.al.|[2506.06846](http://arxiv.org/abs/2506.06846)|null|
 |**2025-05-30**|**Tackling View-Dependent Semantics in 3D Language Gaussian Splatting**|Jiazhong Cen et.al.|[2505.24746](http://arxiv.org/abs/2505.24746)|**[link](https://github.com/sjtu-deepvisionlab/laga)**|
 |**2025-05-25**|**Veta-GS: View-dependent deformable 3D Gaussian Splatting for thermal infrared Novel-view Synthesis**|Myeongseok Nam et.al.|[2505.19138](http://arxiv.org/abs/2505.19138)|null|
 |**2025-05-07**|**Bridging Geometry-Coherent Text-to-3D Generation with Multi-View Diffusion Priors and Gaussian Splatting**|Feng Yang et.al.|[2505.04262](http://arxiv.org/abs/2505.04262)|null|
@@ -2931,6 +2936,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-09**|**4DGT: Learning a 4D Gaussian Transformer Using Real-World Monocular Videos**|Zhen Xu et.al.|[2506.08015](http://arxiv.org/abs/2506.08015)|null|
+|**2025-06-09**|**Speedy Deformable 3D Gaussian Splatting: Fast Rendering and Compression of Dynamic Scenes**|Allen Tu et.al.|[2506.07917](http://arxiv.org/abs/2506.07917)|null|
+|**2025-06-09**|**OpenSplat3D: Open-Vocabulary 3D Instance Segmentation using Gaussian Splatting**|Jens Piekenbrinck et.al.|[2506.07697](http://arxiv.org/abs/2506.07697)|null|
+|**2025-06-09**|**HuSc3D: Human Sculpture dataset for 3D object reconstruction**|Weronika Smolak-Dyżewska et.al.|[2506.07628](http://arxiv.org/abs/2506.07628)|null|
+|**2025-06-08**|**Single-beam driven rotational manipulation for high-resolution 3D cellular morphology reconstruction**|Yiwei Pan et.al.|[2506.07145](http://arxiv.org/abs/2506.07145)|null|
+|**2025-06-08**|**Hybrid Mesh-Gaussian Representation for Efficient Indoor Scene Reconstruction**|Binxiao Huang et.al.|[2506.06988](http://arxiv.org/abs/2506.06988)|null|
+|**2025-06-07**|**SPC to 3D: Novel View Synthesis from Binary SPC via I2I translation**|Sumit Sharma et.al.|[2506.06890](http://arxiv.org/abs/2506.06890)|null|
+|**2025-06-07**|**Multimodal Spatial Language Maps for Robot Navigation and Manipulation**|Chenguang Huang et.al.|[2506.06862](http://arxiv.org/abs/2506.06862)|null|
+|**2025-06-06**|**Enhancing Situational Awareness in Underwater Robotics with Multi-modal Spatial Perception**|Pushyami Kaveti et.al.|[2506.06476](http://arxiv.org/abs/2506.06476)|null|
+|**2025-06-06**|**Splat and Replace: 3D Reconstruction with Repetitive Elements**|Nicolás Violante et.al.|[2506.06462](http://arxiv.org/abs/2506.06462)|null|
 |**2025-06-06**|**SurGSplat: Progressive Geometry-Constrained Gaussian Splatting for Surgical Scene Reconstruction**|Yuchao Zheng et.al.|[2506.05935](http://arxiv.org/abs/2506.05935)|null|
 |**2025-06-06**|**CryoFastAR: Fast Cryo-EM Ab Initio Reconstruction Made Easy**|Jiakai Zhang et.al.|[2506.05864](http://arxiv.org/abs/2506.05864)|null|
 |**2025-06-06**|**FreeTimeGS: Free Gaussian Primitives at Anytime and Anywhere for Dynamic Scene Reconstruction**|Yifan Wang et.al.|[2506.05348](http://arxiv.org/abs/2506.05348)|null|
@@ -3029,6 +3044,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-09**|**Dreamland: Controllable World Creation with Simulator and Generative Models**|Sicheng Mo et.al.|[2506.08006](http://arxiv.org/abs/2506.08006)|null|
+|**2025-06-09**|**LLM-driven Indoor Scene Layout Generation via Scaled Human-aligned Data Synthesis and Multi-Stage Preference Optimization**|Yixuan Yang et.al.|[2506.07570](http://arxiv.org/abs/2506.07570)|null|
+|**2025-06-08**|**Multi-Step Guided Diffusion for Image Restoration on Edge Devices: Toward Lightweight Perception in Embodied AI**|Aditya Chakravarty et.al.|[2506.07286](http://arxiv.org/abs/2506.07286)|null|
+|**2025-06-08**|**LLM-Enhanced Rapid-Reflex Async-Reflect Embodied Agent for Real-Time Decision-Making in Dynamically Changing Environments**|Yangqing Zheng et.al.|[2506.07223](http://arxiv.org/abs/2506.07223)|null|
+|**2025-06-08**|**BePo: Leveraging Birds Eye View and Sparse Points for Efficient and Accurate 3D Occupancy Prediction**|Yunxiao Shi et.al.|[2506.07002](http://arxiv.org/abs/2506.07002)|null|
 |**2025-06-06**|**Hallucinate, Ground, Repeat: A Framework for Generalized Visual Relationship Detection**|Shanmukha Vellamcheti et.al.|[2506.05651](http://arxiv.org/abs/2506.05651)|null|
 |**2025-06-05**|**Direct Numerical Layout Generation for 3D Indoor Scene Synthesis via Spatial Reasoning**|Xingjian Ran et.al.|[2506.05341](http://arxiv.org/abs/2506.05341)|null|
 |**2025-06-05**|**OGGSplat: Open Gaussian Growing for Generalizable Reconstruction with Expanded Field-of-View**|Yanbo Wang et.al.|[2506.05204](http://arxiv.org/abs/2506.05204)|**[link](https://github.com/Yanbo-23/OGGSplat)**|
@@ -3084,6 +3104,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-09**|**Aligning Text, Images, and 3D Structure Token-by-Token**|Aadarsh Sahoo et.al.|[2506.08002](http://arxiv.org/abs/2506.08002)|null|
+|**2025-06-09**|**UA-Pose: Uncertainty-Aware 6D Object Pose Estimation and Online Object Completion with Partial References**|Ming-Feng Li et.al.|[2506.07996](http://arxiv.org/abs/2506.07996)|null|
+|**2025-06-09**|**BridgeVLA: Input-Output Alignment for Efficient 3D Manipulation Learning with Vision-Language Models**|Peiyan Li et.al.|[2506.07961](http://arxiv.org/abs/2506.07961)|null|
+|**2025-06-09**|**Design and Implementation of a Peer-to-Peer Communication, Modular and Decentral YellowCube UUV**|Zhizun Xu et.al.|[2506.07924](http://arxiv.org/abs/2506.07924)|null|
+|**2025-06-09**|**EgoM2P: Egocentric Multimodal Multitask Pretraining**|Gen Li et.al.|[2506.07886](http://arxiv.org/abs/2506.07886)|null|
+|**2025-06-09**|**Versatile Loco-Manipulation through Flexible Interlimb Coordination**|Xinghao Zhu et.al.|[2506.07876](http://arxiv.org/abs/2506.07876)|null|
+|**2025-06-09**|**FreeGave: 3D Physics Learning from Dynamic Videos by Gaussian Velocity**|Jinxi Li et.al.|[2506.07865](http://arxiv.org/abs/2506.07865)|null|
+|**2025-06-09**|**LogoSP: Local-global Grouping of Superpoints for Unsupervised Semantic Segmentation of 3D Point Clouds**|Zihui Zhang et.al.|[2506.07857](http://arxiv.org/abs/2506.07857)|null|
+|**2025-06-09**|**Decentralizing Multi-Agent Reinforcement Learning with Temporal Causal Information**|Jan Corazza et.al.|[2506.07829](http://arxiv.org/abs/2506.07829)|null|
+|**2025-06-09**|**R3D2: Realistic 3D Asset Insertion via Diffusion for Autonomous Driving Simulation**|William Ljungbergh et.al.|[2506.07826](http://arxiv.org/abs/2506.07826)|null|
 |**2025-06-06**|**PyGemini: Unified Software Development towards Maritime Autonomy Systems**|Kjetil Vasstein et.al.|[2506.06262](http://arxiv.org/abs/2506.06262)|null|
 |**2025-06-06**|**From NLVO to NAO: Reactive Robot Navigation using Velocity and Acceleration Obstacles**|Asher Stern et.al.|[2506.06255](http://arxiv.org/abs/2506.06255)|null|
 |**2025-06-06**|**BiAssemble: Learning Collaborative Affordance for Bimanual Geometric Assembly**|Yan Shen et.al.|[2506.06221](http://arxiv.org/abs/2506.06221)|null|

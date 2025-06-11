@@ -695,6 +695,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-10**|**Robust Visual Localization via Semantic-Guided Multi-Scale Transformer**|Zhongtao Tian et.al.|[2506.08526](http://arxiv.org/abs/2506.08526)|null|
 |**2025-06-08**|**Interpretable and Reliable Detection of AI-Generated Images via Grounded Reasoning in MLLMs**|Yikun Ji et.al.|[2506.07045](http://arxiv.org/abs/2506.07045)|null|
 |**2025-06-07**|**Zero Shot Composed Image Retrieval**|Santhosh Kakarla et.al.|[2506.06602](http://arxiv.org/abs/2506.06602)|null|
 |**2025-06-06**|**GenIR: Generative Visual Feedback for Mental Image Retrieval**|Diji Yang et.al.|[2506.06220](http://arxiv.org/abs/2506.06220)|null|
@@ -2910,6 +2911,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-10**|**StreamSplat: Towards Online Dynamic 3D Reconstruction from Uncalibrated Video Streams**|Zike Wu et.al.|[2506.08862](http://arxiv.org/abs/2506.08862)|null|
+|**2025-06-10**|**Gaussian2Scene: 3D Scene Representation Learning via Self-supervised Learning with 3D Gaussian Splatting**|Keyi Liu et.al.|[2506.08777](http://arxiv.org/abs/2506.08777)|null|
+|**2025-06-10**|**A Probability-guided Sampler for Neural Implicit Surface Rendering**|Gonçalo Dias Pais et.al.|[2506.08619](http://arxiv.org/abs/2506.08619)|null|
+|**2025-06-09**|**High-density three-dimensional holography using rapid modulation of light**|Jorge-Alberto Peralta-Ángeles et.al.|[2506.08253](http://arxiv.org/abs/2506.08253)|null|
+|**2025-06-09**|**GIQ: Benchmarking 3D Geometric Reasoning of Vision Foundation Models with Simulated and Real Polyhedra**|Mateusz Michalkiewicz et.al.|[2506.08194](http://arxiv.org/abs/2506.08194)|null|
 |**2025-06-09**|**4DGT: Learning a 4D Gaussian Transformer Using Real-World Monocular Videos**|Zhen Xu et.al.|[2506.08015](http://arxiv.org/abs/2506.08015)|null|
 |**2025-06-09**|**Speedy Deformable 3D Gaussian Splatting: Fast Rendering and Compression of Dynamic Scenes**|Allen Tu et.al.|[2506.07917](http://arxiv.org/abs/2506.07917)|null|
 |**2025-06-09**|**OpenSplat3D: Open-Vocabulary 3D Instance Segmentation using Gaussian Splatting**|Jens Piekenbrinck et.al.|[2506.07697](http://arxiv.org/abs/2506.07697)|null|
@@ -3016,6 +3022,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-10**|**VIKI-R: Coordinating Embodied Multi-Agent Cooperation via Reinforcement Learning**|Li Kang et.al.|[2506.09049](http://arxiv.org/abs/2506.09049)|null|
+|**2025-06-10**|**Generalizable Articulated Object Reconstruction from Casually Captured RGBD Videos**|Weikun Peng et.al.|[2506.08334](http://arxiv.org/abs/2506.08334)|null|
 |**2025-06-09**|**Dreamland: Controllable World Creation with Simulator and Generative Models**|Sicheng Mo et.al.|[2506.08006](http://arxiv.org/abs/2506.08006)|null|
 |**2025-06-09**|**LLM-driven Indoor Scene Layout Generation via Scaled Human-aligned Data Synthesis and Multi-Stage Preference Optimization**|Yixuan Yang et.al.|[2506.07570](http://arxiv.org/abs/2506.07570)|null|
 |**2025-06-08**|**Multi-Step Guided Diffusion for Image Restoration on Edge Devices: Toward Lightweight Perception in Embodied AI**|Aditya Chakravarty et.al.|[2506.07286](http://arxiv.org/abs/2506.07286)|null|
@@ -3074,6 +3082,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-10**|**VIKI-R: Coordinating Embodied Multi-Agent Cooperation via Reinforcement Learning**|Li Kang et.al.|[2506.09049](http://arxiv.org/abs/2506.09049)|null|
+|**2025-06-10**|**SDTagNet: Leveraging Text-Annotated Navigation Maps for Online HD Map Construction**|Fabian Immel et.al.|[2506.08997](http://arxiv.org/abs/2506.08997)|null|
+|**2025-06-10**|**Rethinking Range-View LiDAR Segmentation in Adverse Weather**|Longyu Yang et.al.|[2506.08979](http://arxiv.org/abs/2506.08979)|null|
+|**2025-06-10**|**Diver-Robot Communication Dataset for Underwater Hand Gesture Recognition**|Igor Kvasić et.al.|[2506.08974](http://arxiv.org/abs/2506.08974)|null|
+|**2025-06-10**|**CLONE: Closed-Loop Whole-Body Humanoid Teleoperation for Long-Horizon Tasks**|Yixuan Li et.al.|[2506.08931](http://arxiv.org/abs/2506.08931)|null|
+|**2025-06-10**|**Help or Hindrance: Understanding the Impact of Robot Communication in Action Teams**|Tauhid Tanjim et.al.|[2506.08892](http://arxiv.org/abs/2506.08892)|null|
+|**2025-06-10**|**Human-Robot Teaming Field Deployments: A Comparison Between Verbal and Non-verbal Communication**|Tauhid Tanjim et.al.|[2506.08890](http://arxiv.org/abs/2506.08890)|null|
+|**2025-06-10**|**MOMAV: A highly symmetrical fully-actuated multirotor drone using optimizing control allocation**|Marco Ruggia et.al.|[2506.08868](http://arxiv.org/abs/2506.08868)|null|
+|**2025-06-10**|**Fast Estimation of Globally Optimal Independent Contact Regions for Robust Grasping and Manipulation**|Jonathan P. King et.al.|[2506.08856](http://arxiv.org/abs/2506.08856)|null|
+|**2025-06-10**|**Deploying SICNav in the Field: Safe and Interactive Crowd Navigation using MPC and Bilevel Optimization**|Sepehr Samavi et.al.|[2506.08851](http://arxiv.org/abs/2506.08851)|null|
 |**2025-06-09**|**Aligning Text, Images, and 3D Structure Token-by-Token**|Aadarsh Sahoo et.al.|[2506.08002](http://arxiv.org/abs/2506.08002)|null|
 |**2025-06-09**|**UA-Pose: Uncertainty-Aware 6D Object Pose Estimation and Online Object Completion with Partial References**|Ming-Feng Li et.al.|[2506.07996](http://arxiv.org/abs/2506.07996)|null|
 |**2025-06-09**|**BridgeVLA: Input-Output Alignment for Efficient 3D Manipulation Learning with Vision-Language Models**|Peiyan Li et.al.|[2506.07961](http://arxiv.org/abs/2506.07961)|null|

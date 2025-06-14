@@ -2917,7 +2917,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-12**|**InstaInpaint: Instant 3D-Scene Inpainting with Masked Large Reconstruction Model**|Junqi You et.al.|[2506.10980](http://arxiv.org/abs/2506.10980)|null|
 |**2025-06-11**|**DGS-LRM: Real-Time Deformable 3D Gaussian Reconstruction From Monocular Videos**|Chieh Hubert Lin et.al.|[2506.09997](http://arxiv.org/abs/2506.09997)|null|
-|**2025-06-11**|**Hearing Hands: Generating Sounds from Physical Interactions in 3D Scenes**|Yiming Dou et.al.|[2506.09989](http://arxiv.org/abs/2506.09989)|null|
+|**2025-06-11**|**Hearing Hands: Generating Sounds from Physical Interactions in 3D Scenes**|Yiming Dou et.al.|[2506.09989](http://arxiv.org/abs/2506.09989)|**[link](https://github.com/dou-yiming/hearing_hands)**|
 |**2025-06-11**|**DynaSplat: Dynamic-Static Gaussian Splatting with Hierarchical Motion Decomposition for Scene Reconstruction**|Junli Deng et.al.|[2506.09836](http://arxiv.org/abs/2506.09836)|null|
 |**2025-06-11**|**SemanticSplat: Feed-Forward 3D Scene Understanding with Language-Aware Gaussian Fields**|Qijing Li et.al.|[2506.09565](http://arxiv.org/abs/2506.09565)|null|
 |**2025-06-11**|**DCIRNet: Depth Completion with Iterative Refinement for Dexterous Grasping of Transparent and Reflective Objects**|Guanghu Xie et.al.|[2506.09491](http://arxiv.org/abs/2506.09491)|null|

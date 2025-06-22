@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.21
+## Updated on 2025.06.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -2929,9 +2929,9 @@ layout: default
 |**2025-06-17**|**Plug-and-Play with 2.5D Artifact Reduction Prior for Fast and Accurate Industrial Computed Tomography Reconstruction**|Haley Duba-Sullivan et.al.|[2506.14719](http://arxiv.org/abs/2506.14719)|null|
 |**2025-06-17**|**HRGS: Hierarchical Gaussian Splatting for Memory-Efficient High-Resolution 3D Reconstruction**|Changbai Li et.al.|[2506.14229](http://arxiv.org/abs/2506.14229)|null|
 |**2025-06-16**|**A Point Cloud Completion Approach for the Grasping of Partially Occluded Objects and Its Applications in Robotic Strawberry Harvesting**|Ali Abouzeid et.al.|[2506.14066](http://arxiv.org/abs/2506.14066)|**[link](https://github.com/malak-mansour/pointcloud_completion_for_grasping)**|
-|**2025-06-16**|**Test3R: Learning to Reconstruct 3D at Test Time**|Yuheng Yuan et.al.|[2506.13750](http://arxiv.org/abs/2506.13750)|null|
+|**2025-06-16**|**Test3R: Learning to Reconstruct 3D at Test Time**|Yuheng Yuan et.al.|[2506.13750](http://arxiv.org/abs/2506.13750)|**[link](https://github.com/nopqaq/test3r)**|
 |**2025-06-16**|**Integrated Pipeline for Monocular 3D Reconstruction and Finite Element Simulation in Industrial Applications**|Bowen Zheng et.al.|[2506.13573](http://arxiv.org/abs/2506.13573)|null|
-|**2025-06-16**|**Micro-macro Gaussian Splatting with Enhanced Scalability for Unconstrained Scene Reconstruction**|Yihui Li et.al.|[2506.13516](http://arxiv.org/abs/2506.13516)|null|
+|**2025-06-16**|**Micro-macro Gaussian Splatting with Enhanced Scalability for Unconstrained Scene Reconstruction**|Yihui Li et.al.|[2506.13516](http://arxiv.org/abs/2506.13516)|**[link](https://github.com/kidleyh/smw-gs)**|
 |**2025-06-16**|**UAV Object Detection and Positioning in a Mining Industrial Metaverse with Custom Geo-Referenced Data**|Vasiliki Balaska et.al.|[2506.13505](http://arxiv.org/abs/2506.13505)|null|
 |**2025-06-16**|**ViT-NeBLa: A Hybrid Vision Transformer and Neural Beer-Lambert Framework for Single-View 3D Reconstruction of Oral Anatomy from Panoramic Radiographs**|Bikram Keshari Parida et.al.|[2506.13195](http://arxiv.org/abs/2506.13195)|null|
 |**2025-06-15**|**SMPL Normal Map Is All You Need for Single-view Textured Human Reconstruction**|Wenhao Shen et.al.|[2506.12793](http://arxiv.org/abs/2506.12793)|null|

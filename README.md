@@ -712,11 +712,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-20**|**Class Agnostic Instance-level Descriptor for Visual Instance Search**|Qi-Ying Sun et.al.|[2506.16745](http://arxiv.org/abs/2506.16745)|null|
+|**2025-06-19**|**MambaHash: Visual State Space Deep Hashing Model for Large-Scale Image Retrieval**|Chao He et.al.|[2506.16353](http://arxiv.org/abs/2506.16353)|null|
+|**2025-06-19**|**Fine-grained Image Retrieval via Dual-Vision Adaptation**|Xin Jiang et.al.|[2506.16273](http://arxiv.org/abs/2506.16273)|null|
+|**2025-06-19**|**Adversarial Attacks and Detection in Visual Place Recognition for Safer Robot Navigation**|Connor Malone et.al.|[2506.15988](http://arxiv.org/abs/2506.15988)|null|
+|**2025-06-18**|**Semantic and Feature Guided Uncertainty Quantification of Visual Localization for Autonomous Vehicles**|Qiyuan Wu et.al.|[2506.15851](http://arxiv.org/abs/2506.15851)|null|
 |**2025-06-18**|**ReSeDis: A Dataset for Referring-based Object Search across Large-Scale Image Collections**|Ziling Huang et.al.|[2506.15180](http://arxiv.org/abs/2506.15180)|null|
 |**2025-06-17**|**HARMONY: A Scalable Distributed Vector Database for High-Throughput Approximate Nearest Neighbor Search**|Qian Xu et.al.|[2506.14707](http://arxiv.org/abs/2506.14707)|null|
 |**2025-06-17**|**TACS-Graphs: Traversability-Aware Consistent Scene Graphs for Ground Robot Indoor Localization and Mapping**|Jeewon Kim et.al.|[2506.14178](http://arxiv.org/abs/2506.14178)|null|
 |**2025-06-16**|**A Semantically-Aware Relevance Measure for Content-Based Medical Image Retrieval Evaluation**|Xiaoyang Wei et.al.|[2506.13509](http://arxiv.org/abs/2506.13509)|null|
-|**2025-06-17**|**Hierarchical Multi-Positive Contrastive Learning for Patent Image Retrieval**|Kshitij Kavimandan et.al.|[2506.13496](http://arxiv.org/abs/2506.13496)|null|
+|**2025-06-19**|**Hierarchical Multi-Positive Contrastive Learning for Patent Image Retrieval**|Kshitij Kavimandan et.al.|[2506.13496](http://arxiv.org/abs/2506.13496)|null|
 |**2025-06-16**|**EmbodiedPlace: Learning Mixture-of-Features with Embodied Constraints for Visual Place Recognition**|Bingxi Liu et.al.|[2506.13133](http://arxiv.org/abs/2506.13133)|null|
 |**2025-06-16**|**SuperPlace: The Renaissance of Classical Feature Aggregation for Visual Place Recognition in the Era of Foundation Models**|Bingxi Liu et.al.|[2506.13073](http://arxiv.org/abs/2506.13073)|null|
 |**2025-06-14**|**Feature Complementation Architecture for Visual Place Recognition**|Weiwei Wang et.al.|[2506.12401](http://arxiv.org/abs/2506.12401)|null|
@@ -2950,6 +2955,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-20**|**Part $^{2}$ GS: Part-aware Modeling of Articulated Objects using 3D Gaussian Splatting**|Tianjiao Yu et.al.|[2506.17212](http://arxiv.org/abs/2506.17212)|null|
+|**2025-06-19**|**Structured Semantic 3D Reconstruction (S23DR) Challenge 2025 -- Winning solution**|Jan Skvrna et.al.|[2506.16421](http://arxiv.org/abs/2506.16421)|null|
+|**2025-06-19**|**R3eVision: A Survey on Robust Rendering, Restoration, and Enhancement for 3D Low-Level Vision**|Weeyoung Kwon et.al.|[2506.16262](http://arxiv.org/abs/2506.16262)|null|
+|**2025-06-18**|**Implicit 3D scene reconstruction using deep learning towards efficient collision understanding in autonomous driving**|Akarshani Ramanayake et.al.|[2506.15806](http://arxiv.org/abs/2506.15806)|null|
 |**2025-06-18**|**RA-NeRF: Robust Neural Radiance Field Reconstruction with Accurate Camera Pose Estimation under Complex Trajectories**|Qingsong Yan et.al.|[2506.15242](http://arxiv.org/abs/2506.15242)|null|
 |**2025-06-17**|**Peering into the Unknown: Active View Selection with Neural Uncertainty Maps for 3D Reconstruction**|Zhengquan Zhang et.al.|[2506.14856](http://arxiv.org/abs/2506.14856)|null|
 |**2025-06-17**|**Plug-and-Play with 2.5D Artifact Reduction Prior for Fast and Accurate Industrial Computed Tomography Reconstruction**|Haley Duba-Sullivan et.al.|[2506.14719](http://arxiv.org/abs/2506.14719)|null|
@@ -3081,6 +3090,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-20**|**VLN-R1: Vision-Language Navigation via Reinforcement Fine-Tuning**|Zhangyang Qi et.al.|[2506.17221](http://arxiv.org/abs/2506.17221)|null|
+|**2025-06-19**|**IS-Bench: Evaluating Interactive Safety of VLM-Driven Embodied Agents in Daily Household Tasks**|Xiaoya Lu et.al.|[2506.16402](http://arxiv.org/abs/2506.16402)|null|
+|**2025-06-19**|**DualTHOR: A Dual-Arm Humanoid Simulation Platform for Contingency-Aware Planning**|Boyu Li et.al.|[2506.16012](http://arxiv.org/abs/2506.16012)|null|
+|**2025-06-18**|**Weakly-supervised VLM-guided Partial Contrastive Learning for Visual Language Navigation**|Ruoyu Wang et.al.|[2506.15757](http://arxiv.org/abs/2506.15757)|null|
 |**2025-06-18**|**BoxFusion: Reconstruction-Free Open-Vocabulary 3D Object Detection via Real-Time Multi-View Box Fusion**|Yuqing Lan et.al.|[2506.15610](http://arxiv.org/abs/2506.15610)|null|
 |**2025-06-18**|**Efficient and Generalizable Environmental Understanding for Visual Navigation**|Ruoyu Wang et.al.|[2506.15377](http://arxiv.org/abs/2506.15377)|null|
 |**2025-06-16**|**EmbodiedGen: Towards a Generative 3D World Engine for Embodied Intelligence**|Xinjie Wang et.al.|[2506.10600](http://arxiv.org/abs/2506.10600)|null|
@@ -3149,6 +3162,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-20**|**Long-term Traffic Simulation with Interleaved Autoregressive Motion and Scenario Generation**|Xiuyu Yang et.al.|[2506.17213](http://arxiv.org/abs/2506.17213)|null|
+|**2025-06-20**|**Part $^{2}$ GS: Part-aware Modeling of Articulated Objects using 3D Gaussian Splatting**|Tianjiao Yu et.al.|[2506.17212](http://arxiv.org/abs/2506.17212)|null|
+|**2025-06-20**|**Dex1B: Learning with 1B Demonstrations for Dexterous Manipulation**|Jianglong Ye et.al.|[2506.17198](http://arxiv.org/abs/2506.17198)|null|
+|**2025-06-20**|**Judo: A User-Friendly Open-Source Package for Sampling-Based Model Predictive Control**|Albert H. Li et.al.|[2506.17184](http://arxiv.org/abs/2506.17184)|null|
+|**2025-06-20**|**RGBTrack: Fast, Robust Depth-Free 6D Pose Estimation and Tracking**|Teng Guo et.al.|[2506.17119](http://arxiv.org/abs/2506.17119)|null|
+|**2025-06-20**|**Monocular One-Shot Metric-Depth Alignment for RGB-Based Robot Grasping**|Teng Guo et.al.|[2506.17110](http://arxiv.org/abs/2506.17110)|null|
+|**2025-06-20**|**Learning Accurate Whole-body Throwing with High-frequency Residual Policy and Pullback Tube Acceleration**|Yuntao Ma et.al.|[2506.16986](http://arxiv.org/abs/2506.16986)|null|
+|**2025-06-20**|**LunarLoc: Segment-Based Global Localization on the Moon**|Annika Thomas et.al.|[2506.16940](http://arxiv.org/abs/2506.16940)|null|
+|**2025-06-20**|**SDDiff: Boost Radar Perception via Spatial-Doppler Diffusion**|Shengpeng Wang et.al.|[2506.16936](http://arxiv.org/abs/2506.16936)|null|
+|**2025-06-20**|**Multimodal Fused Learning for Solving the Generalized Traveling Salesman Problem in Robotic Task Planning**|Jiaqi Chen et.al.|[2506.16931](http://arxiv.org/abs/2506.16931)|null|
 |**2025-06-18**|**Particle-Grid Neural Dynamics for Learning Deformable Object Models from RGB-D Videos**|Kaifeng Zhang et.al.|[2506.15680](http://arxiv.org/abs/2506.15680)|null|
 |**2025-06-20**|**Embodied Web Agents: Bridging Physical-Digital Realms for Integrated Agent Intelligence**|Yining Hong et.al.|[2506.15677](http://arxiv.org/abs/2506.15677)|null|
 |**2025-06-18**|**Vision in Action: Learning Active Perception from Human Demonstrations**|Haoyu Xiong et.al.|[2506.15666](http://arxiv.org/abs/2506.15666)|null|

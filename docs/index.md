@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.25
+## Updated on 2025.06.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3085,7 +3085,7 @@ layout: default
 |**2025-06-23**|**InternSpatial: A Comprehensive Dataset for Spatial Reasoning in Vision-Language Models**|Nianchen Deng et.al.|[2506.18385](http://arxiv.org/abs/2506.18385)|null|
 |**2025-06-22**|**CFTel: A Practical Architecture for Robust and Scalable Telerobotics with Cloud-Fog Automation**|Thien Tran et.al.|[2506.17991](http://arxiv.org/abs/2506.17991)|null|
 |**2025-06-22**|**Adapting Vision-Language Models for Evaluating World Models**|Mariya Hendriksen et.al.|[2506.17967](http://arxiv.org/abs/2506.17967)|null|
-|**2025-06-20**|**VLN-R1: Vision-Language Navigation via Reinforcement Fine-Tuning**|Zhangyang Qi et.al.|[2506.17221](http://arxiv.org/abs/2506.17221)|null|
+|**2025-06-25**|**VLN-R1: Vision-Language Navigation via Reinforcement Fine-Tuning**|Zhangyang Qi et.al.|[2506.17221](http://arxiv.org/abs/2506.17221)|null|
 |**2025-06-19**|**IS-Bench: Evaluating Interactive Safety of VLM-Driven Embodied Agents in Daily Household Tasks**|Xiaoya Lu et.al.|[2506.16402](http://arxiv.org/abs/2506.16402)|null|
 |**2025-06-19**|**DualTHOR: A Dual-Arm Humanoid Simulation Platform for Contingency-Aware Planning**|Boyu Li et.al.|[2506.16012](http://arxiv.org/abs/2506.16012)|**[link](https://github.com/ds199895/dualthor)**|
 |**2025-06-18**|**Weakly-supervised VLM-guided Partial Contrastive Learning for Visual Language Navigation**|Ruoyu Wang et.al.|[2506.15757](http://arxiv.org/abs/2506.15757)|null|

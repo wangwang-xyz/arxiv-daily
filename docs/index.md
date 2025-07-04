@@ -2948,6 +2948,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-03**|**Point3R: Streaming 3D Reconstruction with Explicit Spatial Pointer Memory**|Yuqi Wu et.al.|[2507.02863](http://arxiv.org/abs/2507.02863)|null|
+|**2025-07-03**|**LiteReality: Graphics-Ready 3D Scene Reconstruction from RGB-D Scans**|Zhening Huang et.al.|[2507.02861](http://arxiv.org/abs/2507.02861)|null|
+|**2025-07-03**|**SIU3R: Simultaneous Scene Understanding and 3D Reconstruction Beyond Feature Alignment**|Qi Xu et.al.|[2507.02705](http://arxiv.org/abs/2507.02705)|null|
+|**2025-07-03**|**3D Heart Reconstruction from Sparse Pose-agnostic 2D Echocardiographic Slices**|Zhurong Chen et.al.|[2507.02411](http://arxiv.org/abs/2507.02411)|null|
+|**2025-07-03**|**LocalDyGS: Multi-view Global Dynamic Scene Modeling via Adaptive Local Implicit Feature Decoupling**|Jiahao Wu et.al.|[2507.02363](http://arxiv.org/abs/2507.02363)|null|
 |**2025-07-02**|**3D Reconstruction and Information Fusion between Dormant and Canopy Seasons in Commercial Orchards Using Deep Learning and Fast GICP**|Ranjan Sapkota et.al.|[2507.01912](http://arxiv.org/abs/2507.01912)|null|
 |**2025-07-02**|**Tile and Slide : A New Framework for Scaling NeRF from Local to Global 3D Earth Observation**|Camille Billouard et.al.|[2507.01631](http://arxiv.org/abs/2507.01631)|null|
 |**2025-07-01**|**Surgical Neural Radiance Fields from One Image**|Alberto Neri et.al.|[2507.00969](http://arxiv.org/abs/2507.00969)|null|
@@ -3124,6 +3129,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-02**|**RoboBrain 2.0 Technical Report**|BAAI RoboBrain Team et.al.|[2507.02029](http://arxiv.org/abs/2507.02029)|null|
 |**2025-07-02**|**What does really matter in image goal navigation?**|Gianluca Monaci et.al.|[2507.01667](http://arxiv.org/abs/2507.01667)|null|
 |**2025-07-01**|**A Survey: Learning Embodied Intelligence from Physical Simulators and World Models**|Xiaoxiao Long et.al.|[2507.00917](http://arxiv.org/abs/2507.00917)|null|
 |**2025-07-03**|**Benchmarking Generalizable Bimanual Manipulation: RoboTwin Dual-Arm Collaboration Challenge at CVPR 2025 MEIS Workshop**|Tianxing Chen et.al.|[2506.23351](http://arxiv.org/abs/2506.23351)|null|
@@ -3206,6 +3212,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-03**|**MultiGen: Using Multimodal Generation in Simulation to Learn Multimodal Policies in Real**|Renhao Wang et.al.|[2507.02864](http://arxiv.org/abs/2507.02864)|null|
+|**2025-07-03**|**RefTok: Reference-Based Tokenization for Video Generation**|Xiang Fan et.al.|[2507.02862](http://arxiv.org/abs/2507.02862)|null|
+|**2025-07-03**|**LiteReality: Graphics-Ready 3D Scene Reconstruction from RGB-D Scans**|Zhening Huang et.al.|[2507.02861](http://arxiv.org/abs/2507.02861)|null|
+|**2025-07-03**|**Grounding Intelligence in Movement**|Melanie Segado et.al.|[2507.02771](http://arxiv.org/abs/2507.02771)|null|
+|**2025-07-03**|**Trajectory Optimization for Differential Drive Mobile Manipulators via Topological Paths Search and Arc Length-Yaw Parameterization**|Long Xu et.al.|[2507.02761](http://arxiv.org/abs/2507.02761)|null|
+|**2025-07-03**|**Multi-agent Auditory Scene Analysis**|Caleb Rascon et.al.|[2507.02755](http://arxiv.org/abs/2507.02755)|null|
+|**2025-07-03**|**DexVLG: Dexterous Vision-Language-Grasp Model at Scale**|Jiawei He et.al.|[2507.02747](http://arxiv.org/abs/2507.02747)|null|
+|**2025-07-03**|**Optimizing Start Locations in Ergodic Search for Disaster Response**|Ananya Rao et.al.|[2507.02708](http://arxiv.org/abs/2507.02708)|null|
+|**2025-07-03**|**Integrating path-planning and control for robotic unicycles**|Máté B. Vizi et.al.|[2507.02700](http://arxiv.org/abs/2507.02700)|null|
+|**2025-07-03**|**MISCGrasp: Leveraging Multiple Integrated Scales and Contrastive Learning for Enhanced Volumetric Grasping**|Qingyu Fan et.al.|[2507.02672](http://arxiv.org/abs/2507.02672)|null|
 |**2025-07-03**|**AC-DiT: Adaptive Coordination Diffusion Transformer for Mobile Manipulation**|Sixiang Chen et.al.|[2507.01961](http://arxiv.org/abs/2507.01961)|null|
 |**2025-07-03**|**Large Language Model-Driven Closed-Loop UAV Operation with Semantic Observations**|Wenhao Wang et.al.|[2507.01930](http://arxiv.org/abs/2507.01930)|null|
 |**2025-07-02**|**A Survey on Vision-Language-Action Models: An Action Tokenization Perspective**|Yifan Zhong et.al.|[2507.01925](http://arxiv.org/abs/2507.01925)|null|

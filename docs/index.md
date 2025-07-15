@@ -707,6 +707,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**GT-Loc: Unifying When and Where in Images Through a Joint Embedding Space**|David G. Shatwell et.al.|[2507.10473](http://arxiv.org/abs/2507.10473)|null|
+|**2025-07-14**|**Text-to-Remote-Sensing-Image Retrieval beyond RGB Sources**|Daniele Rege Cambrin et.al.|[2507.10403](http://arxiv.org/abs/2507.10403)|null|
+|**2025-07-14**|**Kaleidoscopic Background Attack: Disrupting Pose Estimation with Multi-Fold Radial Symmetry Textures**|Xinlong Ding et.al.|[2507.10265](http://arxiv.org/abs/2507.10265)|null|
 |**2025-07-11**|**RadiomicsRetrieval: A Customizable Framework for Medical Image Retrieval Using Radiomics Features**|Inye Na et.al.|[2507.08546](http://arxiv.org/abs/2507.08546)|null|
 |**2025-07-11**|**LiDAR, GNSS and IMU Sensor Alignment through Dynamic Time Warping to Construct 3D City Maps**|Haitian Wang et.al.|[2507.08420](http://arxiv.org/abs/2507.08420)|null|
 |**2025-07-11**|**Deep Hashing with Semantic Hash Centers for Image Retrieval**|Li Chen et.al.|[2507.08404](http://arxiv.org/abs/2507.08404)|null|
@@ -2969,6 +2972,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**Binomial Self-Compensation: Mechanism and Suppression of Motion Error in Phase-Shifting Profilometry**|Geyou Zhang et.al.|[2507.10009](http://arxiv.org/abs/2507.10009)|null|
 |**2025-07-11**|**Learning human-to-robot handovers through 3D scene reconstruction**|Yuekun Wu et.al.|[2507.08726](http://arxiv.org/abs/2507.08726)|null|
 |**2025-07-11**|**An Efficient Approach for Muscle Segmentation and 3D Reconstruction Using Keypoint Tracking in MRI Scan**|Mengyuan Liu et.al.|[2507.08690](http://arxiv.org/abs/2507.08690)|null|
 |**2025-07-11**|**Adaptive Framework for Ambient Intelligence in Rehabilitation Assistance**|Gábor Baranyi et.al.|[2507.08624](http://arxiv.org/abs/2507.08624)|null|
@@ -3170,6 +3174,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**ViTCoT: Video-Text Interleaved Chain-of-Thought for Boosting Video Understanding in Large Language Models**|Yongheng Zhang et.al.|[2507.09876](http://arxiv.org/abs/2507.09876)|null|
+|**2025-07-12**|**Online Long-term Point Tracking in the Foundation Model Era**|Görkay Aydemir et.al.|[2507.09217](http://arxiv.org/abs/2507.09217)|null|
 |**2025-07-11**|**LLaPa: A Vision-Language Model Framework for Counterfactual-Aware Procedural Planning**|Shibo Sun et.al.|[2507.08496](http://arxiv.org/abs/2507.08496)|null|
 |**2025-07-10**|**SURPRISE3D: A Dataset for Spatial Understanding and Reasoning in Complex 3D Scenes**|Jiaxin Huang et.al.|[2507.07781](http://arxiv.org/abs/2507.07781)|null|
 |**2025-07-09**|**A Neural Representation Framework with LLM-Driven Spatial Reasoning for Open-Vocabulary 3D Visual Grounding**|Zhenyang Liu et.al.|[2507.06719](http://arxiv.org/abs/2507.06719)|null|
@@ -3262,6 +3268,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**MP1: Mean Flow Tames Policy Learning in 1-step for Robotic Manipulation**|Juyi Sheng et.al.|[2507.10543](http://arxiv.org/abs/2507.10543)|null|
+|**2025-07-14**|**Scene-Aware Conversational ADAS with Generative AI for Real-Time Driver Assistance**|Kyungtae Han et.al.|[2507.10500](http://arxiv.org/abs/2507.10500)|null|
+|**2025-07-14**|**Privacy-Preserving Multi-Stage Fall Detection Framework with Semi-supervised Federated Learning and Robotic Vision Confirmation**|Seyed Alireza Rahimi Azghadi et.al.|[2507.10474](http://arxiv.org/abs/2507.10474)|null|
+|**2025-07-14**|**MLAR: Multi-layer Large Language Model-based Robotic Process Automation Applicant Tracking**|Mohamed T. Younes et.al.|[2507.10472](http://arxiv.org/abs/2507.10472)|null|
+|**2025-07-14**|**Towards Emotion Co-regulation with LLM-powered Socially Assistive Robots: Integrating LLM Prompts and Robotic Behaviors to Support Parent-Neurodivergent Child Dyads**|Jing Li et.al.|[2507.10427](http://arxiv.org/abs/2507.10427)|null|
+|**2025-07-14**|**Raci-Net: Ego-vehicle Odometry Estimation in Adverse Weather Conditions**|Mohammadhossein Talebi et.al.|[2507.10376](http://arxiv.org/abs/2507.10376)|null|
+|**2025-07-14**|**Polygonal Obstacle Avoidance Combining Model Predictive Control and Fuzzy Logic**|Michael Schröder et.al.|[2507.10310](http://arxiv.org/abs/2507.10310)|null|
+|**2025-07-14**|**TOP: Trajectory Optimization via Parallel Optimization towards Constant Time Complexity**|Jiajun Yu et.al.|[2507.10290](http://arxiv.org/abs/2507.10290)|null|
+|**2025-07-14**|**Prompt Informed Reinforcement Learning for Visual Coverage Path Planning**|Venkat Margapuri et.al.|[2507.10284](http://arxiv.org/abs/2507.10284)|null|
+|**2025-07-14**|**Multi-Robot Cooperative Herding through Backstepping Control Barrier Functions**|Kang Li et.al.|[2507.10249](http://arxiv.org/abs/2507.10249)|null|
 |**2025-07-11**|**Learning human-to-robot handovers through 3D scene reconstruction**|Yuekun Wu et.al.|[2507.08726](http://arxiv.org/abs/2507.08726)|null|
 |**2025-07-11**|**Computing optimal trajectories for a tethered pursuer**|Aurelio Barrera-Vicent et.al.|[2507.08724](http://arxiv.org/abs/2507.08724)|null|
 |**2025-07-11**|**Knowledge Graph-Based approach for Sustainable 6G End-to-End System Design**|Akshay Jain et.al.|[2507.08717](http://arxiv.org/abs/2507.08717)|null|

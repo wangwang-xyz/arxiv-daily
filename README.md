@@ -730,6 +730,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-23**|**VLM-Guided Visual Place Recognition for Planet-Scale Geo-Localization**|Sania Waheed et.al.|[2507.17455](http://arxiv.org/abs/2507.17455)|null|
+|**2025-07-23**|**Content-based 3D Image Retrieval and a ColBERT-inspired Re-ranking for Tumor Flagging and Staging**|Farnaz Khun Jush et.al.|[2507.17412](http://arxiv.org/abs/2507.17412)|null|
 |**2025-07-20**|**LoopNet: A Multitasking Few-Shot Learning Approach for Loop Closure in Large Scale SLAM**|Mohammad-Maher Nakshbandi et.al.|[2507.15109](http://arxiv.org/abs/2507.15109)|null|
 |**2025-07-20**|**Visual Place Recognition for Large-Scale UAV Applications**|Ioannis Tsampikos Papapetros et.al.|[2507.15089](http://arxiv.org/abs/2507.15089)|null|
 |**2025-07-20**|**U-MARVEL: Unveiling Key Factors for Universal Multimodal Retrieval via Embedding Learning with MLLMs**|Xiaojie Li et.al.|[2507.14902](http://arxiv.org/abs/2507.14902)|null|
@@ -3017,6 +3019,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-23**|**Monocular Semantic Scene Completion via Masked Recurrent Networks**|Xuzhi Wang et.al.|[2507.17661](http://arxiv.org/abs/2507.17661)|null|
+|**2025-07-23**|**RemixFusion: Residual-based Mixed Representation for Large-scale Online RGB-D Reconstruction**|Yuqing Lan et.al.|[2507.17594](http://arxiv.org/abs/2507.17594)|null|
+|**2025-07-23**|**Terrain-Aware Adaptation for Two-Dimensional UAV Path Planners**|Kostas Karakontis et.al.|[2507.17519](http://arxiv.org/abs/2507.17519)|null|
+|**2025-07-23**|**PolarAnything: Diffusion-based Polarimetric Image Synthesis**|Kailong Zhang et.al.|[2507.17268](http://arxiv.org/abs/2507.17268)|null|
 |**2025-07-22**|**VGGT-Long: Chunk it, Loop it, Align it -- Pushing VGGT's Limits on Kilometer-scale Long RGB Sequences**|Kai Deng et.al.|[2507.16443](http://arxiv.org/abs/2507.16443)|null|
 |**2025-07-22**|**Sparse-View 3D Reconstruction: Recent Advances and Open Challenges**|Tanveer Younis et.al.|[2507.16406](http://arxiv.org/abs/2507.16406)|null|
 |**2025-07-22**|**Dens3R: A Foundation Model for 3D Geometry Prediction**|Xianze Fang et.al.|[2507.16290](http://arxiv.org/abs/2507.16290)|null|
@@ -3346,6 +3352,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-23**|**Online Submission and Evaluation System Design for Competition Operations**|Zhe Chen et.al.|[2507.17730](http://arxiv.org/abs/2507.17730)|null|
+|**2025-07-23**|**CA-Cut: Crop-Aligned Cutout for Data Augmentation to Learn More Robust Under-Canopy Navigation**|Robel Mamo et.al.|[2507.17727](http://arxiv.org/abs/2507.17727)|null|
+|**2025-07-23**|**Safety Assurance for Quadrotor Kinodynamic Motion Planning**|Theodoros Tavoulareas et.al.|[2507.17679](http://arxiv.org/abs/2507.17679)|null|
+|**2025-07-23**|**Perspective-Invariant 3D Object Detection**|Ao Liang et.al.|[2507.17665](http://arxiv.org/abs/2507.17665)|null|
+|**2025-07-23**|**Talk2Event: Grounded Understanding of Dynamic Scenes from Event Cameras**|Lingdong Kong et.al.|[2507.17664](http://arxiv.org/abs/2507.17664)|null|
+|**2025-07-23**|**Monocular Semantic Scene Completion via Masked Recurrent Networks**|Xuzhi Wang et.al.|[2507.17661](http://arxiv.org/abs/2507.17661)|null|
+|**2025-07-23**|**Event Detection for Active Lower Limb Prosthesis**|J. D. Clark et.al.|[2507.17649](http://arxiv.org/abs/2507.17649)|null|
+|**2025-07-23**|**Explainable AI for Collaborative Assessment of 2D/3D Registration Quality**|Sue Min Cho et.al.|[2507.17597](http://arxiv.org/abs/2507.17597)|null|
+|**2025-07-23**|**PRIX: Learning to Plan from Raw Pixels for End-to-End Autonomous Driving**|Maciej K. Wozniak et.al.|[2507.17596](http://arxiv.org/abs/2507.17596)|null|
+|**2025-07-23**|**From Scan to Action: Leveraging Realistic Scans for Embodied Scene Understanding**|Anna-Maria Halacheva et.al.|[2507.17585](http://arxiv.org/abs/2507.17585)|null|
 |**2025-07-22**|**ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning**|Chi-Pin Huang et.al.|[2507.16815](http://arxiv.org/abs/2507.16815)|null|
 |**2025-07-22**|**Zebra-CoT: A Dataset for Interleaved Vision Language Reasoning**|Ang Li et.al.|[2507.16746](http://arxiv.org/abs/2507.16746)|null|
 |**2025-07-22**|**Denoising-While-Completing Network (DWCNet): Robust Point Cloud Completion Under Corruption**|Keneni W. Tesema et.al.|[2507.16743](http://arxiv.org/abs/2507.16743)|null|
